@@ -1,0 +1,1175 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1680193012443,2944,HTTP Request,200,OK,newuser 1-29,text,true,,165127,240,500,500,https://www.rokomari.com/book,1635,0,1549
+1680193012443,1712,HTTP Request-0,301,Moved Permanently,newuser 1-29,,true,,902,118,500,500,https://www.rokomari.com/,1635,0,1549
+1680193014327,1060,HTTP Request-1,200,OK,newuser 1-29,text,true,,164225,122,500,500,https://www.rokomari.com/book,106,0,0
+1680193013668,5449,HTTP Request,200,OK,newuser 1-348,text,true,,165125,240,499,499,https://www.rokomari.com/book,333,0,241
+1680193013668,543,HTTP Request-0,301,Moved Permanently,newuser 1-348,,true,,898,118,499,499,https://www.rokomari.com/,333,0,241
+1680193014212,4905,HTTP Request-1,200,OK,newuser 1-348,text,true,,164227,122,499,499,https://www.rokomari.com/book,92,0,0
+1680193014559,5064,HTTP Request,200,OK,newuser 1-410,text,true,,165119,240,498,498,https://www.rokomari.com/book,236,0,136
+1680193014559,236,HTTP Request-0,301,Moved Permanently,newuser 1-410,,true,,894,118,498,498,https://www.rokomari.com/,236,0,136
+1680193014795,4828,HTTP Request-1,200,OK,newuser 1-410,text,true,,164225,122,498,498,https://www.rokomari.com/book,183,0,0
+1680193012437,7411,HTTP Request,200,OK,newuser 1-17,text,true,,165129,240,497,497,https://www.rokomari.com/book,4650,0,4545
+1680193012437,4650,HTTP Request-0,301,Moved Permanently,newuser 1-17,,true,,896,118,497,497,https://www.rokomari.com/,4650,0,4545
+1680193017087,2761,HTTP Request-1,200,OK,newuser 1-17,text,true,,164233,122,497,497,https://www.rokomari.com/book,478,0,0
+1680193012471,7700,HTTP Request,200,OK,newuser 1-41,text,true,,165127,240,496,496,https://www.rokomari.com/book,4477,0,4371
+1680193012471,4477,HTTP Request-0,301,Moved Permanently,newuser 1-41,,true,,904,118,496,496,https://www.rokomari.com/,4477,0,4371
+1680193016948,3223,HTTP Request-1,200,OK,newuser 1-41,text,true,,164223,122,496,496,https://www.rokomari.com/book,188,0,0
+1680193012486,7801,HTTP Request,200,OK,newuser 1-70,text,true,,165127,240,495,495,https://www.rokomari.com/book,4892,0,3920
+1680193012486,4892,HTTP Request-0,301,Moved Permanently,newuser 1-70,,true,,900,118,495,495,https://www.rokomari.com/,4892,0,3920
+1680193017378,2909,HTTP Request-1,200,OK,newuser 1-70,text,true,,164227,122,495,495,https://www.rokomari.com/book,112,0,0
+1680193013017,7403,HTTP Request,200,OK,newuser 1-231,text,true,,165131,240,494,494,https://www.rokomari.com/book,3161,0,3047
+1680193013017,3161,HTTP Request-0,301,Moved Permanently,newuser 1-231,,true,,900,118,494,494,https://www.rokomari.com/,3161,0,3047
+1680193016178,4242,HTTP Request-1,200,OK,newuser 1-231,text,true,,164231,122,494,494,https://www.rokomari.com/book,120,0,0
+1680193013607,6841,HTTP Request,200,OK,newuser 1-310,text,true,,165133,240,493,493,https://www.rokomari.com/book,1611,0,1501
+1680193013607,1611,HTTP Request-0,301,Moved Permanently,newuser 1-310,,true,,904,118,493,493,https://www.rokomari.com/,1611,0,1501
+1680193015218,5230,HTTP Request-1,200,OK,newuser 1-310,text,true,,164229,122,493,493,https://www.rokomari.com/book,121,0,0
+1680193012686,7996,HTTP Request,200,OK,newuser 1-143,text,true,,165131,240,492,492,https://www.rokomari.com/book,5386,0,5009
+1680193012686,5386,HTTP Request-0,301,Moved Permanently,newuser 1-143,,true,,900,118,492,492,https://www.rokomari.com/,5386,0,5009
+1680193018072,2610,HTTP Request-1,200,OK,newuser 1-143,text,true,,164231,122,492,492,https://www.rokomari.com/book,141,0,0
+1680193013588,7279,HTTP Request,200,OK,newuser 1-279,text,true,,165131,240,491,491,https://www.rokomari.com/book,5450,0,2403
+1680193013588,5450,HTTP Request-0,301,Moved Permanently,newuser 1-279,,true,,902,118,491,491,https://www.rokomari.com/,5450,0,2403
+1680193019039,1828,HTTP Request-1,200,OK,newuser 1-279,text,true,,164229,122,491,491,https://www.rokomari.com/book,112,0,0
+1680193013708,7173,HTTP Request,200,OK,newuser 1-371,text,true,,165123,240,490,490,https://www.rokomari.com/book,1046,0,715
+1680193013708,1046,HTTP Request-0,301,Moved Permanently,newuser 1-371,,true,,896,118,490,490,https://www.rokomari.com/,1046,0,715
+1680193014754,6127,HTTP Request-1,200,OK,newuser 1-371,text,true,,164227,122,490,490,https://www.rokomari.com/book,203,0,0
+1680193012505,8616,HTTP Request,200,OK,newuser 1-77,text,true,,165135,240,489,489,https://www.rokomari.com/book,4196,0,4089
+1680193012505,4196,HTTP Request-0,301,Moved Permanently,newuser 1-77,,true,,906,118,489,489,https://www.rokomari.com/,4196,0,4089
+1680193016701,4420,HTTP Request-1,200,OK,newuser 1-77,text,true,,164229,122,489,489,https://www.rokomari.com/book,148,0,0
+1680193014566,6603,HTTP Request,200,OK,newuser 1-417,text,true,,165128,240,488,488,https://www.rokomari.com/book,868,0,712
+1680193014566,868,HTTP Request-0,301,Moved Permanently,newuser 1-417,,true,,900,118,488,488,https://www.rokomari.com/,868,0,712
+1680193015435,5734,HTTP Request-1,200,OK,newuser 1-417,text,true,,164228,122,488,488,https://www.rokomari.com/book,114,0,0
+1680193014604,6596,HTTP Request,200,OK,newuser 1-449,text,true,,165125,240,487,487,https://www.rokomari.com/book,4046,0,1986
+1680193014604,4046,HTTP Request-0,301,Moved Permanently,newuser 1-449,,true,,898,118,487,487,https://www.rokomari.com/,4046,0,1986
+1680193018650,2550,HTTP Request-1,200,OK,newuser 1-449,text,true,,164227,122,487,487,https://www.rokomari.com/book,109,0,0
+1680193012433,9223,HTTP Request,200,OK,newuser 1-52,text,true,,165125,240,486,486,https://www.rokomari.com/book,3557,0,3435
+1680193012433,3557,HTTP Request-0,301,Moved Permanently,newuser 1-52,,true,,896,118,486,486,https://www.rokomari.com/,3557,0,3435
+1680193015991,5665,HTTP Request-1,200,OK,newuser 1-52,text,true,,164229,122,486,486,https://www.rokomari.com/book,930,0,0
+1680193014363,7499,HTTP Request,200,OK,newuser 1-346,text,true,,165139,240,485,485,https://www.rokomari.com/book,869,0,466
+1680193014363,869,HTTP Request-0,301,Moved Permanently,newuser 1-346,,true,,906,118,485,485,https://www.rokomari.com/,869,0,466
+1680193015232,6630,HTTP Request-1,200,OK,newuser 1-346,text,true,,164233,122,485,485,https://www.rokomari.com/book,953,0,0
+1680193012444,9504,HTTP Request,200,OK,newuser 1-65,text,true,,165127,240,484,484,https://www.rokomari.com/book,3748,0,3631
+1680193012444,3748,HTTP Request-0,301,Moved Permanently,newuser 1-65,,true,,902,118,484,484,https://www.rokomari.com/,3748,0,3631
+1680193016193,5755,HTTP Request-1,200,OK,newuser 1-65,text,true,,164225,122,484,484,https://www.rokomari.com/book,189,0,0
+1680193012944,9015,HTTP Request,200,OK,newuser 1-213,text,true,,165127,240,483,483,https://www.rokomari.com/book,3581,0,3022
+1680193012944,3581,HTTP Request-0,301,Moved Permanently,newuser 1-213,,true,,898,118,483,483,https://www.rokomari.com/,3581,0,3022
+1680193016525,5434,HTTP Request-1,200,OK,newuser 1-213,text,true,,164229,122,483,483,https://www.rokomari.com/book,132,0,0
+1680193013609,8373,HTTP Request,200,OK,newuser 1-306,text,true,,165123,240,482,482,https://www.rokomari.com/book,4451,0,4345
+1680193013609,4451,HTTP Request-0,301,Moved Permanently,newuser 1-306,,true,,898,118,482,482,https://www.rokomari.com/,4451,0,4345
+1680193018060,3922,HTTP Request-1,200,OK,newuser 1-306,text,true,,164225,122,482,482,https://www.rokomari.com/book,190,0,0
+1680193014645,7436,HTTP Request,200,OK,newuser 1-468,text,true,,165134,240,481,481,https://www.rokomari.com/book,654,0,538
+1680193014645,654,HTTP Request-0,301,Moved Permanently,newuser 1-468,,true,,902,118,481,481,https://www.rokomari.com/,654,0,538
+1680193015300,6781,HTTP Request-1,200,OK,newuser 1-468,text,true,,164232,122,481,481,https://www.rokomari.com/book,249,0,0
+1680193013627,8610,HTTP Request,200,OK,newuser 1-291,text,true,,165127,240,480,480,https://www.rokomari.com/book,1204,0,1069
+1680193013627,1204,HTTP Request-0,301,Moved Permanently,newuser 1-291,,true,,898,118,480,480,https://www.rokomari.com/,1204,0,1069
+1680193014831,7406,HTTP Request-1,200,OK,newuser 1-291,text,true,,164229,122,480,480,https://www.rokomari.com/book,184,0,0
+1680193012472,9767,HTTP Request,200,OK,newuser 1-49,text,true,,165127,240,479,479,https://www.rokomari.com/book,8036,0,5385
+1680193012472,8036,HTTP Request-0,301,Moved Permanently,newuser 1-49,,true,,898,118,479,479,https://www.rokomari.com/,8036,0,5385
+1680193020508,1731,HTTP Request-1,200,OK,newuser 1-49,text,true,,164229,122,479,479,https://www.rokomari.com/book,103,0,0
+1680193012916,9504,HTTP Request,200,OK,newuser 1-198,text,true,,165123,240,478,478,https://www.rokomari.com/book,3262,0,3150
+1680193012916,3262,HTTP Request-0,301,Moved Permanently,newuser 1-198,,true,,894,118,478,478,https://www.rokomari.com/,3262,0,3150
+1680193016178,6242,HTTP Request-1,200,OK,newuser 1-198,text,true,,164229,122,478,478,https://www.rokomari.com/book,111,0,0
+1680193012470,9999,HTTP Request,200,OK,newuser 1-4,text,true,,165122,240,477,477,https://www.rokomari.com/book,5210,0,4773
+1680193012470,5210,HTTP Request-0,301,Moved Permanently,newuser 1-4,,true,,898,118,477,477,https://www.rokomari.com/,5210,0,4773
+1680193017681,4788,HTTP Request-1,200,OK,newuser 1-4,text,true,,164224,122,477,477,https://www.rokomari.com/book,257,0,0
+1680193012841,9741,HTTP Request,200,OK,newuser 1-173,text,true,,165123,240,476,476,https://www.rokomari.com/book,4789,0,4684
+1680193012841,4789,HTTP Request-0,301,Moved Permanently,newuser 1-173,,true,,896,118,476,476,https://www.rokomari.com/,4789,0,4684
+1680193017630,4952,HTTP Request-1,200,OK,newuser 1-173,text,true,,164227,122,476,476,https://www.rokomari.com/book,113,0,0
+1680193013601,9144,HTTP Request,200,OK,newuser 1-313,text,true,,165127,240,475,475,https://www.rokomari.com/book,5145,0,4985
+1680193013601,5145,HTTP Request-0,301,Moved Permanently,newuser 1-313,,true,,898,118,475,475,https://www.rokomari.com/,5145,0,4985
+1680193018746,3999,HTTP Request-1,200,OK,newuser 1-313,text,true,,164229,122,475,475,https://www.rokomari.com/book,145,0,0
+1680193012887,9872,HTTP Request,200,OK,newuser 1-189,text,true,,165125,240,474,474,https://www.rokomari.com/book,4748,0,4620
+1680193012887,4748,HTTP Request-0,301,Moved Permanently,newuser 1-189,,true,,900,118,474,474,https://www.rokomari.com/,4748,0,4620
+1680193017636,5123,HTTP Request-1,200,OK,newuser 1-189,text,true,,164225,122,474,474,https://www.rokomari.com/book,127,0,0
+1680193012941,9841,HTTP Request,200,OK,newuser 1-212,text,true,,165125,240,473,473,https://www.rokomari.com/book,954,0,824
+1680193012941,1167,HTTP Request-0,301,Moved Permanently,newuser 1-212,,true,,900,118,473,473,https://www.rokomari.com/,954,0,824
+1680193014159,8623,HTTP Request-1,200,OK,newuser 1-212,text,true,,164225,122,473,473,https://www.rokomari.com/book,90,0,0
+1680193012888,9894,HTTP Request,200,OK,newuser 1-176,text,true,,165141,240,473,473,https://www.rokomari.com/book,4938,0,4831
+1680193012888,4938,HTTP Request-0,301,Moved Permanently,newuser 1-176,,true,,898,118,473,473,https://www.rokomari.com/,4938,0,4831
+1680193017826,4956,HTTP Request-1,200,OK,newuser 1-176,text,true,,164243,122,473,473,https://www.rokomari.com/book,129,0,0
+1680193012948,9860,HTTP Request,200,OK,newuser 1-214,text,true,,165126,240,471,471,https://www.rokomari.com/book,4841,0,4517
+1680193012948,4841,HTTP Request-0,301,Moved Permanently,newuser 1-214,,true,,900,118,471,471,https://www.rokomari.com/,4841,0,4517
+1680193017789,5019,HTTP Request-1,200,OK,newuser 1-214,text,true,,164226,122,471,471,https://www.rokomari.com/book,103,0,0
+1680193012521,10292,HTTP Request,200,OK,newuser 1-91,text,true,,165137,240,470,470,https://www.rokomari.com/book,6201,0,5758
+1680193012521,6201,HTTP Request-0,301,Moved Permanently,newuser 1-91,,true,,904,118,470,470,https://www.rokomari.com/,6201,0,5758
+1680193018722,4091,HTTP Request-1,200,OK,newuser 1-91,text,true,,164233,122,470,470,https://www.rokomari.com/book,178,0,0
+1680193012472,10482,HTTP Request,200,OK,newuser 1-44,text,true,,165127,240,469,469,https://www.rokomari.com/book,8122,0,7699
+1680193012472,8122,HTTP Request-0,301,Moved Permanently,newuser 1-44,,true,,904,118,469,469,https://www.rokomari.com/,8122,0,7699
+1680193020594,2360,HTTP Request-1,200,OK,newuser 1-44,text,true,,164223,122,469,469,https://www.rokomari.com/book,108,0,0
+1680193014553,8497,HTTP Request,200,OK,newuser 1-408,text,true,,165126,240,468,468,https://www.rokomari.com/book,1213,0,1088
+1680193014553,1213,HTTP Request-0,301,Moved Permanently,newuser 1-408,,true,,898,118,468,468,https://www.rokomari.com/,1213,0,1088
+1680193015767,7283,HTTP Request-1,200,OK,newuser 1-408,text,true,,164228,122,468,468,https://www.rokomari.com/book,146,0,0
+1680193014751,8769,HTTP Request,200,OK,newuser 1-494,text,true,,165120,240,467,467,https://www.rokomari.com/book,2592,0,2475
+1680193014751,2592,HTTP Request-0,301,Moved Permanently,newuser 1-494,,true,,894,118,467,467,https://www.rokomari.com/,2592,0,2475
+1680193017343,6177,HTTP Request-1,200,OK,newuser 1-494,text,true,,164226,122,467,467,https://www.rokomari.com/book,199,0,0
+1680193013610,9952,HTTP Request,200,OK,newuser 1-309,text,true,,165134,240,466,466,https://www.rokomari.com/book,5276,0,1747
+1680193013610,5276,HTTP Request-0,301,Moved Permanently,newuser 1-309,,true,,904,118,466,466,https://www.rokomari.com/,5276,0,1747
+1680193018887,4675,HTTP Request-1,200,OK,newuser 1-309,text,true,,164230,122,466,466,https://www.rokomari.com/book,102,0,0
+1680193012499,11075,HTTP Request,200,OK,newuser 1-73,text,true,,165129,240,465,465,https://www.rokomari.com/book,7040,0,3430
+1680193012499,7040,HTTP Request-0,301,Moved Permanently,newuser 1-73,,true,,900,118,465,465,https://www.rokomari.com/,7040,0,3430
+1680193019539,4035,HTTP Request-1,200,OK,newuser 1-73,text,true,,164229,122,465,465,https://www.rokomari.com/book,122,0,0
+1680193013654,9959,HTTP Request,200,OK,newuser 1-333,text,true,,165119,240,464,464,https://www.rokomari.com/book,2617,0,464
+1680193013654,2617,HTTP Request-0,301,Moved Permanently,newuser 1-333,,true,,896,118,464,464,https://www.rokomari.com/,2617,0,464
+1680193016271,7342,HTTP Request-1,200,OK,newuser 1-333,text,true,,164223,122,464,464,https://www.rokomari.com/book,142,0,0
+1680193012472,11177,HTTP Request,200,OK,newuser 1-42,text,true,,165123,240,463,463,https://www.rokomari.com/book,7976,0,5385
+1680193012472,7976,HTTP Request-0,301,Moved Permanently,newuser 1-42,,true,,898,118,463,463,https://www.rokomari.com/,7976,0,5385
+1680193020448,3201,HTTP Request-1,200,OK,newuser 1-42,text,true,,164225,122,463,463,https://www.rokomari.com/book,112,0,0
+1680193014909,8852,HTTP Request,200,OK,newuser 1-477,text,true,,165131,240,462,462,https://www.rokomari.com/book,2195,0,2089
+1680193014909,2195,HTTP Request-0,301,Moved Permanently,newuser 1-477,,true,,898,118,462,462,https://www.rokomari.com/,2195,0,2089
+1680193017104,6657,HTTP Request-1,200,OK,newuser 1-477,text,true,,164233,122,462,462,https://www.rokomari.com/book,300,0,0
+1680193012818,11138,HTTP Request,200,OK,newuser 1-164,text,true,,165127,240,461,461,https://www.rokomari.com/book,6947,0,4775
+1680193012818,6947,HTTP Request-0,301,Moved Permanently,newuser 1-164,,true,,894,118,461,461,https://www.rokomari.com/,6947,0,4775
+1680193019765,4191,HTTP Request-1,200,OK,newuser 1-164,text,true,,164233,122,461,461,https://www.rokomari.com/book,118,0,0
+1680193012833,11199,HTTP Request,200,OK,newuser 1-172,text,true,,165134,240,460,460,https://www.rokomari.com/book,3266,0,3156
+1680193012833,3266,HTTP Request-0,301,Moved Permanently,newuser 1-172,,true,,904,118,460,460,https://www.rokomari.com/,3266,0,3156
+1680193016099,7933,HTTP Request-1,200,OK,newuser 1-172,text,true,,164230,122,460,460,https://www.rokomari.com/book,108,0,0
+1680193012596,11446,HTTP Request,200,OK,newuser 1-120,text,true,,165131,240,459,459,https://www.rokomari.com/book,3889,0,1282
+1680193012596,3889,HTTP Request-0,301,Moved Permanently,newuser 1-120,,true,,898,118,459,459,https://www.rokomari.com/,3889,0,1282
+1680193016485,7557,HTTP Request-1,200,OK,newuser 1-120,text,true,,164233,122,459,459,https://www.rokomari.com/book,217,0,0
+1680193014894,9149,HTTP Request,200,OK,newuser 1-451,text,true,,165119,240,459,459,https://www.rokomari.com/book,7276,0,7142
+1680193014894,7276,HTTP Request-0,301,Moved Permanently,newuser 1-451,,true,,896,118,459,459,https://www.rokomari.com/,7276,0,7142
+1680193022170,1873,HTTP Request-1,200,OK,newuser 1-451,text,true,,164223,122,459,459,https://www.rokomari.com/book,198,0,0
+1680193013706,10351,HTTP Request,200,OK,newuser 1-372,text,true,,165126,240,457,457,https://www.rokomari.com/book,3560,0,3457
+1680193013706,3560,HTTP Request-0,301,Moved Permanently,newuser 1-372,,true,,896,118,457,457,https://www.rokomari.com/,3560,0,3457
+1680193017266,6791,HTTP Request-1,200,OK,newuser 1-372,text,true,,164230,122,457,457,https://www.rokomari.com/book,149,0,0
+1680193012461,11757,HTTP Request,200,OK,newuser 1-2,text,true,,165117,240,456,456,https://www.rokomari.com/book,5929,0,5493
+1680193012461,5929,HTTP Request-0,301,Moved Permanently,newuser 1-2,,true,,894,118,456,456,https://www.rokomari.com/,5929,0,5493
+1680193018390,5828,HTTP Request-1,200,OK,newuser 1-2,text,true,,164223,122,456,456,https://www.rokomari.com/book,166,0,0
+1680193014784,9440,HTTP Request,200,OK,newuser 1-441,text,true,,165120,240,455,455,https://www.rokomari.com/book,5061,0,4964
+1680193014784,5061,HTTP Request-0,301,Moved Permanently,newuser 1-441,,true,,894,118,455,455,https://www.rokomari.com/,5061,0,4964
+1680193019845,4379,HTTP Request-1,200,OK,newuser 1-441,text,true,,164226,122,455,455,https://www.rokomari.com/book,170,0,0
+1680193012505,11766,HTTP Request,200,OK,newuser 1-79,text,true,,165131,240,454,454,https://www.rokomari.com/book,3793,0,1519
+1680193012505,3793,HTTP Request-0,301,Moved Permanently,newuser 1-79,,true,,902,118,454,454,https://www.rokomari.com/,3793,0,1519
+1680193016300,7971,HTTP Request-1,200,OK,newuser 1-79,text,true,,164229,122,454,454,https://www.rokomari.com/book,514,0,0
+1680193014551,9725,HTTP Request,200,OK,newuser 1-406,text,true,,165127,240,453,453,https://www.rokomari.com/book,7893,0,7515
+1680193014551,7893,HTTP Request-0,301,Moved Permanently,newuser 1-406,,true,,902,118,453,453,https://www.rokomari.com/,7893,0,7515
+1680193022445,1831,HTTP Request-1,200,OK,newuser 1-406,text,true,,164225,122,453,453,https://www.rokomari.com/book,265,0,0
+1680193012427,11905,HTTP Request,200,OK,newuser 1-15,text,true,,165137,240,452,452,https://www.rokomari.com/book,2920,0,1070
+1680193012427,2920,HTTP Request-0,301,Moved Permanently,newuser 1-15,,true,,904,118,452,452,https://www.rokomari.com/,2920,0,1070
+1680193015347,8985,HTTP Request-1,200,OK,newuser 1-15,text,true,,164233,122,452,452,https://www.rokomari.com/book,4088,0,0
+1680193012582,11789,HTTP Request,200,OK,newuser 1-116,text,true,,165126,240,451,451,https://www.rokomari.com/book,3899,0,3774
+1680193012582,3899,HTTP Request-0,301,Moved Permanently,newuser 1-116,,true,,898,118,451,451,https://www.rokomari.com/,3899,0,3774
+1680193016481,7890,HTTP Request-1,200,OK,newuser 1-116,text,true,,164228,122,451,451,https://www.rokomari.com/book,127,0,0
+1680193012557,11985,HTTP Request,200,OK,newuser 1-102,text,true,,165133,240,450,450,https://www.rokomari.com/book,8033,0,7627
+1680193012557,8033,HTTP Request-0,301,Moved Permanently,newuser 1-102,,true,,908,118,450,450,https://www.rokomari.com/,8033,0,7627
+1680193020590,3952,HTTP Request-1,200,OK,newuser 1-102,text,true,,164225,122,450,450,https://www.rokomari.com/book,182,0,0
+1680193012818,11805,HTTP Request,200,OK,newuser 1-169,text,true,,165123,240,449,449,https://www.rokomari.com/book,5162,0,4806
+1680193012818,5162,HTTP Request-0,301,Moved Permanently,newuser 1-169,,true,,900,118,449,449,https://www.rokomari.com/,5162,0,4806
+1680193017980,6643,HTTP Request-1,200,OK,newuser 1-169,text,true,,164223,122,449,449,https://www.rokomari.com/book,124,0,0
+1680193014659,10078,HTTP Request,200,OK,newuser 1-483,text,true,,165120,240,448,448,https://www.rokomari.com/book,2042,0,1937
+1680193014659,2042,HTTP Request-0,301,Moved Permanently,newuser 1-483,,true,,902,118,448,448,https://www.rokomari.com/,2042,0,1937
+1680193016701,8036,HTTP Request-1,200,OK,newuser 1-483,text,true,,164218,122,448,448,https://www.rokomari.com/book,121,0,0
+1680193012896,11933,HTTP Request,200,OK,newuser 1-171,text,true,,165127,240,447,447,https://www.rokomari.com/book,5133,0,4790
+1680193012896,5133,HTTP Request-0,301,Moved Permanently,newuser 1-171,,true,,904,118,447,447,https://www.rokomari.com/,5133,0,4790
+1680193018030,6799,HTTP Request-1,200,OK,newuser 1-171,text,true,,164223,122,447,447,https://www.rokomari.com/book,859,0,0
+1680193014426,10412,HTTP Request,200,OK,newuser 1-396,text,true,,165125,240,446,446,https://www.rokomari.com/book,5629,0,4226
+1680193014426,5629,HTTP Request-0,301,Moved Permanently,newuser 1-396,,true,,900,118,446,446,https://www.rokomari.com/,5629,0,4226
+1680193020055,4783,HTTP Request-1,200,OK,newuser 1-396,text,true,,164225,122,446,446,https://www.rokomari.com/book,110,0,0
+1680193013037,11815,HTTP Request,200,OK,newuser 1-236,text,true,,165121,240,445,445,https://www.rokomari.com/book,1325,0,263
+1680193013037,1325,HTTP Request-0,301,Moved Permanently,newuser 1-236,,true,,898,118,445,445,https://www.rokomari.com/,1325,0,263
+1680193014363,10489,HTTP Request-1,200,OK,newuser 1-236,text,true,,164223,122,445,445,https://www.rokomari.com/book,212,0,0
+1680193014416,10458,HTTP Request,200,OK,newuser 1-405,text,true,,165123,240,444,444,https://www.rokomari.com/book,8063,0,7676
+1680193014416,8063,HTTP Request-0,301,Moved Permanently,newuser 1-405,,true,,900,118,444,444,https://www.rokomari.com/,8063,0,7676
+1680193022478,2396,HTTP Request-1,200,OK,newuser 1-405,text,true,,164223,122,444,444,https://www.rokomari.com/book,169,0,0
+1680193013619,11271,HTTP Request,200,OK,newuser 1-297,text,true,,165133,240,443,443,https://www.rokomari.com/book,1751,0,1627
+1680193013619,1751,HTTP Request-0,301,Moved Permanently,newuser 1-297,,true,,904,118,443,443,https://www.rokomari.com/,1751,0,1627
+1680193015371,9519,HTTP Request-1,200,OK,newuser 1-297,text,true,,164229,122,443,443,https://www.rokomari.com/book,129,0,0
+1680193012435,12624,HTTP Request,200,OK,newuser 1-9,text,true,,165133,240,442,442,https://www.rokomari.com/book,5490,0,5391
+1680193012435,5490,HTTP Request-0,301,Moved Permanently,newuser 1-9,,true,,906,118,442,442,https://www.rokomari.com/,5490,0,5391
+1680193017925,7134,HTTP Request-1,200,OK,newuser 1-9,text,true,,164227,122,442,442,https://www.rokomari.com/book,166,0,0
+1680193012473,12703,HTTP Request,200,OK,newuser 1-64,text,true,,165133,240,441,441,https://www.rokomari.com/book,6111,0,4577
+1680193012473,6111,HTTP Request-0,301,Moved Permanently,newuser 1-64,,true,,906,118,441,441,https://www.rokomari.com/,6111,0,4577
+1680193018584,6592,HTTP Request-1,200,OK,newuser 1-64,text,true,,164227,122,441,441,https://www.rokomari.com/book,250,0,0
+1680193014650,10585,HTTP Request,200,OK,newuser 1-473,text,true,,165126,240,440,440,https://www.rokomari.com/book,705,0,604
+1680193014650,705,HTTP Request-0,301,Moved Permanently,newuser 1-473,,true,,900,118,440,440,https://www.rokomari.com/,705,0,604
+1680193015356,9879,HTTP Request-1,200,OK,newuser 1-473,text,true,,164226,122,440,440,https://www.rokomari.com/book,220,0,0
+1680193012598,12638,HTTP Request,200,OK,newuser 1-122,text,true,,165123,240,440,440,https://www.rokomari.com/book,5211,0,5088
+1680193012598,5211,HTTP Request-0,301,Moved Permanently,newuser 1-122,,true,,900,118,440,440,https://www.rokomari.com/,5211,0,5088
+1680193017810,7426,HTTP Request-1,200,OK,newuser 1-122,text,true,,164223,122,440,440,https://www.rokomari.com/book,97,0,0
+1680193012510,12830,HTTP Request,200,OK,newuser 1-80,text,true,,165123,240,438,438,https://www.rokomari.com/book,4258,0,4154
+1680193012510,4258,HTTP Request-0,301,Moved Permanently,newuser 1-80,,true,,902,118,438,438,https://www.rokomari.com/,4258,0,4154
+1680193016768,8572,HTTP Request-1,200,OK,newuser 1-80,text,true,,164221,122,438,438,https://www.rokomari.com/book,149,0,0
+1680193013638,11731,HTTP Request,200,OK,newuser 1-285,text,true,,165126,240,437,437,https://www.rokomari.com/book,2489,0,1079
+1680193013638,2489,HTTP Request-0,301,Moved Permanently,newuser 1-285,,true,,900,118,437,437,https://www.rokomari.com/,2489,0,1079
+1680193016127,9242,HTTP Request-1,200,OK,newuser 1-285,text,true,,164226,122,437,437,https://www.rokomari.com/book,110,0,0
+1680193013555,12000,HTTP Request,200,OK,newuser 1-262,text,true,,165135,240,436,436,https://www.rokomari.com/book,5581,0,3506
+1680193013555,5581,HTTP Request-0,301,Moved Permanently,newuser 1-262,,true,,898,118,436,436,https://www.rokomari.com/,5581,0,3506
+1680193019136,6419,HTTP Request-1,200,OK,newuser 1-262,text,true,,164237,122,436,436,https://www.rokomari.com/book,390,0,0
+1680193012473,13259,HTTP Request,200,OK,newuser 1-53,text,true,,165127,240,435,435,https://www.rokomari.com/book,5710,0,5597
+1680193012473,5710,HTTP Request-0,301,Moved Permanently,newuser 1-53,,true,,902,118,435,435,https://www.rokomari.com/,5710,0,5597
+1680193018183,7549,HTTP Request-1,200,OK,newuser 1-53,text,true,,164225,122,435,435,https://www.rokomari.com/book,113,0,0
+1680193013624,12224,HTTP Request,200,OK,newuser 1-292,text,true,,165129,240,434,434,https://www.rokomari.com/book,1691,0,1084
+1680193013624,1691,HTTP Request-0,301,Moved Permanently,newuser 1-292,,true,,898,118,434,434,https://www.rokomari.com/,1691,0,1084
+1680193015315,10533,HTTP Request-1,200,OK,newuser 1-292,text,true,,164231,122,434,434,https://www.rokomari.com/book,865,0,0
+1680193013700,12185,HTTP Request,200,OK,newuser 1-374,text,true,,165128,240,433,433,https://www.rokomari.com/book,8946,0,8736
+1680193013700,8946,HTTP Request-0,301,Moved Permanently,newuser 1-374,,true,,904,118,433,433,https://www.rokomari.com/,8946,0,8736
+1680193022646,3239,HTTP Request-1,200,OK,newuser 1-374,text,true,,164224,122,433,433,https://www.rokomari.com/book,119,0,0
+1680193013758,12132,HTTP Request,200,OK,newuser 1-251,text,true,,165125,240,432,432,https://www.rokomari.com/book,166,0,71
+1680193013758,596,HTTP Request-0,301,Moved Permanently,newuser 1-251,,true,,902,118,432,432,https://www.rokomari.com/,166,0,71
+1680193014354,11536,HTTP Request-1,200,OK,newuser 1-251,text,true,,164223,122,432,432,https://www.rokomari.com/book,103,0,0
+1680193012595,13364,HTTP Request,200,OK,newuser 1-110,text,true,,165133,240,431,431,https://www.rokomari.com/book,5132,0,4775
+1680193012595,5132,HTTP Request-0,301,Moved Permanently,newuser 1-110,,true,,898,118,431,431,https://www.rokomari.com/,5132,0,4775
+1680193017727,8232,HTTP Request-1,200,OK,newuser 1-110,text,true,,164235,122,431,431,https://www.rokomari.com/book,153,0,0
+1680193013541,12475,HTTP Request,200,OK,newuser 1-259,text,true,,165120,240,430,430,https://www.rokomari.com/book,3762,0,3648
+1680193013541,3762,HTTP Request-0,301,Moved Permanently,newuser 1-259,,true,,902,118,430,430,https://www.rokomari.com/,3762,0,3648
+1680193017303,8713,HTTP Request-1,200,OK,newuser 1-259,text,true,,164218,122,430,430,https://www.rokomari.com/book,104,0,0
+1680193013613,12453,HTTP Request,200,OK,newuser 1-302,text,true,,165133,240,429,429,https://www.rokomari.com/book,8635,0,8371
+1680193013613,8635,HTTP Request-0,301,Moved Permanently,newuser 1-302,,true,,902,118,429,429,https://www.rokomari.com/,8635,0,8371
+1680193022249,3817,HTTP Request-1,200,OK,newuser 1-302,text,true,,164231,122,429,429,https://www.rokomari.com/book,292,0,0
+1680193013666,12444,HTTP Request,200,OK,newuser 1-345,text,true,,165138,240,428,428,https://www.rokomari.com/book,2089,0,1023
+1680193013666,2089,HTTP Request-0,301,Moved Permanently,newuser 1-345,,true,,900,118,428,428,https://www.rokomari.com/,2089,0,1023
+1680193015755,10355,HTTP Request-1,200,OK,newuser 1-345,text,true,,164238,122,428,428,https://www.rokomari.com/book,118,0,0
+1680193015001,11127,HTTP Request,200,OK,newuser 1-418,text,true,,165135,240,427,427,https://www.rokomari.com/book,10476,0,8621
+1680193015001,10476,HTTP Request-0,301,Moved Permanently,newuser 1-418,,true,,908,118,427,427,https://www.rokomari.com/,10476,0,8621
+1680193025476,652,HTTP Request-1,200,OK,newuser 1-418,text,true,,164227,122,427,427,https://www.rokomari.com/book,114,0,0
+1680193012918,13223,HTTP Request,200,OK,newuser 1-199,text,true,,165131,240,426,426,https://www.rokomari.com/book,3412,0,3313
+1680193012918,3412,HTTP Request-0,301,Moved Permanently,newuser 1-199,,true,,900,118,426,426,https://www.rokomari.com/,3412,0,3313
+1680193016330,9811,HTTP Request-1,200,OK,newuser 1-199,text,true,,164231,122,426,426,https://www.rokomari.com/book,241,0,0
+1680193013656,12527,HTTP Request,200,OK,newuser 1-334,text,true,,165132,240,425,425,https://www.rokomari.com/book,589,0,496
+1680193013656,589,HTTP Request-0,301,Moved Permanently,newuser 1-334,,true,,894,118,425,425,https://www.rokomari.com/,589,0,496
+1680193014246,11937,HTTP Request-1,200,OK,newuser 1-334,text,true,,164238,122,425,425,https://www.rokomari.com/book,178,0,0
+1680193014635,11576,HTTP Request,200,OK,newuser 1-458,text,true,,165129,240,424,424,https://www.rokomari.com/book,8463,0,8332
+1680193014635,8463,HTTP Request-0,301,Moved Permanently,newuser 1-458,,true,,898,118,424,424,https://www.rokomari.com/,8463,0,8332
+1680193023097,3114,HTTP Request-1,200,OK,newuser 1-458,text,true,,164231,122,424,424,https://www.rokomari.com/book,117,0,0
+1680193014443,11865,HTTP Request,200,OK,newuser 1-398,text,true,,165140,240,423,423,https://www.rokomari.com/book,8089,0,7707
+1680193014443,8089,HTTP Request-0,301,Moved Permanently,newuser 1-398,,true,,900,118,423,423,https://www.rokomari.com/,8089,0,7707
+1680193022531,3777,HTTP Request-1,200,OK,newuser 1-398,text,true,,164240,122,423,423,https://www.rokomari.com/book,179,0,0
+1680193012561,13838,HTTP Request,200,OK,newuser 1-103,text,true,,165141,240,422,422,https://www.rokomari.com/book,8017,0,5397
+1680193012561,8017,HTTP Request-0,301,Moved Permanently,newuser 1-103,,true,,912,118,422,422,https://www.rokomari.com/,8017,0,5397
+1680193020578,5821,HTTP Request-1,200,OK,newuser 1-103,text,true,,164229,122,422,422,https://www.rokomari.com/book,191,0,0
+1680193012815,13685,HTTP Request,200,OK,newuser 1-163,text,true,,165126,240,421,421,https://www.rokomari.com/book,3180,0,3050
+1680193012815,3180,HTTP Request-0,301,Moved Permanently,newuser 1-163,,true,,900,118,421,421,https://www.rokomari.com/,3180,0,3050
+1680193015995,10505,HTTP Request-1,200,OK,newuser 1-163,text,true,,164226,122,421,421,https://www.rokomari.com/book,139,0,0
+1680193014356,12153,HTTP Request,200,OK,newuser 1-304,text,true,,165127,240,420,420,https://www.rokomari.com/book,5538,0,5441
+1680193014356,5538,HTTP Request-0,301,Moved Permanently,newuser 1-304,,true,,896,118,420,420,https://www.rokomari.com/,5538,0,5441
+1680193019894,6615,HTTP Request-1,200,OK,newuser 1-304,text,true,,164231,122,420,420,https://www.rokomari.com/book,915,0,0
+1680193012530,13983,HTTP Request,200,OK,newuser 1-96,text,true,,165122,240,419,419,https://www.rokomari.com/book,5669,0,5293
+1680193012530,5669,HTTP Request-0,301,Moved Permanently,newuser 1-96,,true,,900,118,419,419,https://www.rokomari.com/,5669,0,5293
+1680193018200,8313,HTTP Request-1,200,OK,newuser 1-96,text,true,,164222,122,419,419,https://www.rokomari.com/book,140,0,0
+1680193012470,14074,HTTP Request,200,OK,newuser 1-57,text,true,,165120,240,418,418,https://www.rokomari.com/book,4781,0,4409
+1680193012470,4781,HTTP Request-0,301,Moved Permanently,newuser 1-57,,true,,896,118,418,418,https://www.rokomari.com/,4781,0,4409
+1680193017251,9293,HTTP Request-1,200,OK,newuser 1-57,text,true,,164224,122,418,418,https://www.rokomari.com/book,104,0,0
+1680193014012,12663,HTTP Request,200,OK,newuser 1-397,text,true,,165121,240,417,417,https://www.rokomari.com/book,2404,0,48
+1680193014012,2404,HTTP Request-0,301,Moved Permanently,newuser 1-397,,true,,898,118,417,417,https://www.rokomari.com/,2404,0,48
+1680193016417,10258,HTTP Request-1,200,OK,newuser 1-397,text,true,,164223,122,417,417,https://www.rokomari.com/book,3735,0,0
+1680193012692,13998,HTTP Request,200,OK,newuser 1-147,text,true,,165123,240,416,416,https://www.rokomari.com/book,7108,0,3474
+1680193012692,7108,HTTP Request-0,301,Moved Permanently,newuser 1-147,,true,,900,118,416,416,https://www.rokomari.com/,7108,0,3474
+1680193019800,6890,HTTP Request-1,200,OK,newuser 1-147,text,true,,164223,122,416,416,https://www.rokomari.com/book,451,0,0
+1680193012466,14334,HTTP Request,200,OK,newuser 1-38,text,true,,165142,240,415,415,https://www.rokomari.com/book,12101,0,11990
+1680193012466,12101,HTTP Request-0,301,Moved Permanently,newuser 1-38,,true,,900,118,415,415,https://www.rokomari.com/,12101,0,11990
+1680193024566,2234,HTTP Request-1,200,OK,newuser 1-38,text,true,,164242,122,415,415,https://www.rokomari.com/book,111,0,0
+1680193012707,14116,HTTP Request,200,OK,newuser 1-154,text,true,,165137,240,414,414,https://www.rokomari.com/book,6885,0,6681
+1680193012707,6885,HTTP Request-0,301,Moved Permanently,newuser 1-154,,true,,906,118,414,414,https://www.rokomari.com/,6885,0,6681
+1680193019592,7231,HTTP Request-1,200,OK,newuser 1-154,text,true,,164231,122,414,414,https://www.rokomari.com/book,1941,0,0
+1680193012725,14222,HTTP Request,200,OK,newuser 1-160,text,true,,165121,240,413,413,https://www.rokomari.com/book,3829,0,3711
+1680193012725,3829,HTTP Request-0,301,Moved Permanently,newuser 1-160,,true,,894,118,413,413,https://www.rokomari.com/,3829,0,3711
+1680193016554,10393,HTTP Request-1,200,OK,newuser 1-160,text,true,,164227,122,413,413,https://www.rokomari.com/book,112,0,0
+1680193012432,14560,HTTP Request,200,OK,newuser 1-11,text,true,,165117,240,412,412,https://www.rokomari.com/book,12582,0,4132
+1680193012432,12582,HTTP Request-0,301,Moved Permanently,newuser 1-11,,true,,894,118,412,412,https://www.rokomari.com/,12582,0,4132
+1680193025013,1979,HTTP Request-1,200,OK,newuser 1-11,text,true,,164223,122,412,412,https://www.rokomari.com/book,462,0,0
+1680193014638,12468,HTTP Request,200,OK,newuser 1-452,text,true,,165117,240,411,411,https://www.rokomari.com/book,5684,0,3382
+1680193014638,5684,HTTP Request-0,301,Moved Permanently,newuser 1-452,,true,,896,118,411,411,https://www.rokomari.com/,5684,0,3382
+1680193020323,6783,HTTP Request-1,200,OK,newuser 1-452,text,true,,164221,122,411,411,https://www.rokomari.com/book,103,0,0
+1680193012471,14709,HTTP Request,200,OK,newuser 1-39,text,true,,165138,240,410,410,https://www.rokomari.com/book,12390,0,5199
+1680193012471,12390,HTTP Request-0,301,Moved Permanently,newuser 1-39,,true,,904,118,410,410,https://www.rokomari.com/,12390,0,5199
+1680193024860,2320,HTTP Request-1,200,OK,newuser 1-39,text,true,,164234,122,410,410,https://www.rokomari.com/book,186,0,0
+1680193012470,14824,HTTP Request,200,OK,newuser 1-50,text,true,,165141,240,409,409,https://www.rokomari.com/book,7101,0,6990
+1680193012470,7101,HTTP Request-0,301,Moved Permanently,newuser 1-50,,true,,910,118,409,409,https://www.rokomari.com/,7101,0,6990
+1680193019571,7723,HTTP Request-1,200,OK,newuser 1-50,text,true,,164231,122,409,409,https://www.rokomari.com/book,444,0,0
+1680193013753,13645,HTTP Request,200,OK,newuser 1-250,text,true,,165117,240,408,408,https://www.rokomari.com/book,164,0,70
+1680193013753,614,HTTP Request-0,301,Moved Permanently,newuser 1-250,,true,,896,118,408,408,https://www.rokomari.com/,164,0,70
+1680193014367,13031,HTTP Request-1,200,OK,newuser 1-250,text,true,,164221,122,408,408,https://www.rokomari.com/book,536,0,0
+1680193013582,13819,HTTP Request,200,OK,newuser 1-270,text,true,,165128,240,407,407,https://www.rokomari.com/book,5209,0,5105
+1680193013582,5209,HTTP Request-0,301,Moved Permanently,newuser 1-270,,true,,898,118,407,407,https://www.rokomari.com/,5209,0,5105
+1680193018791,8610,HTTP Request-1,200,OK,newuser 1-270,text,true,,164230,122,407,407,https://www.rokomari.com/book,870,0,0
+1680193012618,14800,HTTP Request,200,OK,newuser 1-128,text,true,,165133,240,406,406,https://www.rokomari.com/book,6684,0,6584
+1680193012618,6684,HTTP Request-0,301,Moved Permanently,newuser 1-128,,true,,906,118,406,406,https://www.rokomari.com/,6684,0,6584
+1680193019302,8116,HTTP Request-1,200,OK,newuser 1-128,text,true,,164227,122,406,406,https://www.rokomari.com/book,199,0,0
+1680193012513,14922,HTTP Request,200,OK,newuser 1-86,text,true,,165136,240,405,405,https://www.rokomari.com/book,4940,0,4505
+1680193012513,4940,HTTP Request-0,301,Moved Permanently,newuser 1-86,,true,,906,118,405,405,https://www.rokomari.com/,4940,0,4505
+1680193017453,9982,HTTP Request-1,200,OK,newuser 1-86,text,true,,164230,122,405,405,https://www.rokomari.com/book,106,0,0
+1680193012445,14999,HTTP Request,200,OK,newuser 1-60,text,true,,165131,240,404,404,https://www.rokomari.com/book,12609,0,12152
+1680193012445,12609,HTTP Request-0,301,Moved Permanently,newuser 1-60,,true,,896,118,404,404,https://www.rokomari.com/,12609,0,12152
+1680193025053,2391,HTTP Request-1,200,OK,newuser 1-60,text,true,,164235,122,404,404,https://www.rokomari.com/book,249,0,0
+1680193012702,14750,HTTP Request,200,OK,newuser 1-142,text,true,,165124,240,403,403,https://www.rokomari.com/book,1459,0,597
+1680193012702,1459,HTTP Request-0,301,Moved Permanently,newuser 1-142,,true,,902,118,403,403,https://www.rokomari.com/,1459,0,597
+1680193014161,13291,HTTP Request-1,200,OK,newuser 1-142,text,true,,164222,122,403,403,https://www.rokomari.com/book,128,0,0
+1680193012956,14566,HTTP Request,200,OK,newuser 1-216,text,true,,165132,240,402,402,https://www.rokomari.com/book,10552,0,10195
+1680193012956,10552,HTTP Request-0,301,Moved Permanently,newuser 1-216,,true,,900,118,402,402,https://www.rokomari.com/,10552,0,10195
+1680193023507,4015,HTTP Request-1,200,OK,newuser 1-216,text,true,,164232,122,402,402,https://www.rokomari.com/book,216,0,0
+1680193012867,14656,HTTP Request,200,OK,newuser 1-181,text,true,,165119,240,402,402,https://www.rokomari.com/book,9860,0,2791
+1680193012867,9860,HTTP Request-0,301,Moved Permanently,newuser 1-181,,true,,898,118,402,402,https://www.rokomari.com/,9860,0,2791
+1680193022726,4797,HTTP Request-1,200,OK,newuser 1-181,text,true,,164221,122,402,402,https://www.rokomari.com/book,500,0,0
+1680193014839,12701,HTTP Request,200,OK,newuser 1-453,text,true,,165134,240,400,400,https://www.rokomari.com/book,1278,0,233
+1680193014839,1278,HTTP Request-0,301,Moved Permanently,newuser 1-453,,true,,896,118,400,400,https://www.rokomari.com/,1278,0,233
+1680193016118,11422,HTTP Request-1,200,OK,newuser 1-453,text,true,,164238,122,400,400,https://www.rokomari.com/book,200,0,0
+1680193013711,13843,HTTP Request,200,OK,newuser 1-390,text,true,,165121,240,399,399,https://www.rokomari.com/book,4438,0,3192
+1680193013711,4438,HTTP Request-0,301,Moved Permanently,newuser 1-390,,true,,894,118,399,399,https://www.rokomari.com/,4438,0,3192
+1680193018150,9404,HTTP Request-1,200,OK,newuser 1-390,text,true,,164227,122,399,399,https://www.rokomari.com/book,419,0,0
+1680193012433,15121,HTTP Request,200,OK,newuser 1-54,text,true,,165119,240,399,399,https://www.rokomari.com/book,4713,0,4614
+1680193012433,4713,HTTP Request-0,301,Moved Permanently,newuser 1-54,,true,,898,118,399,399,https://www.rokomari.com/,4713,0,4614
+1680193017146,10408,HTTP Request-1,200,OK,newuser 1-54,text,true,,164221,122,399,399,https://www.rokomari.com/book,101,0,0
+1680193012501,15124,HTTP Request,200,OK,newuser 1-74,text,true,,165130,240,397,397,https://www.rokomari.com/book,5344,0,5232
+1680193012501,5344,HTTP Request-0,301,Moved Permanently,newuser 1-74,,true,,898,118,397,397,https://www.rokomari.com/,5344,0,5232
+1680193017845,9780,HTTP Request-1,200,OK,newuser 1-74,text,true,,164232,122,397,397,https://www.rokomari.com/book,191,0,0
+1680193012686,14938,HTTP Request,200,OK,newuser 1-133,text,true,,165127,240,397,397,https://www.rokomari.com/book,10807,0,10632
+1680193012686,10807,HTTP Request-0,301,Moved Permanently,newuser 1-133,,true,,904,118,397,397,https://www.rokomari.com/,10807,0,10632
+1680193023492,4132,HTTP Request-1,200,OK,newuser 1-133,text,true,,164223,122,397,397,https://www.rokomari.com/book,159,0,0
+1680193012820,14812,HTTP Request,200,OK,newuser 1-165,text,true,,165124,240,395,395,https://www.rokomari.com/book,4191,0,3147
+1680193012820,4191,HTTP Request-0,301,Moved Permanently,newuser 1-165,,true,,902,118,395,395,https://www.rokomari.com/,4191,0,3147
+1680193017011,10621,HTTP Request-1,200,OK,newuser 1-165,text,true,,164222,122,395,395,https://www.rokomari.com/book,153,0,0
+1680193014791,12867,HTTP Request,200,OK,newuser 1-455,text,true,,165115,240,394,394,https://www.rokomari.com/book,9336,0,9206
+1680193014791,9336,HTTP Request-0,301,Moved Permanently,newuser 1-455,,true,,896,118,394,394,https://www.rokomari.com/,9336,0,9206
+1680193024126,3532,HTTP Request-1,200,OK,newuser 1-455,text,true,,164219,122,394,394,https://www.rokomari.com/book,191,0,0
+1680193012565,15156,HTTP Request,200,OK,newuser 1-109,text,true,,165133,240,393,393,https://www.rokomari.com/book,12296,0,7633
+1680193012565,12296,HTTP Request-0,301,Moved Permanently,newuser 1-109,,true,,902,118,393,393,https://www.rokomari.com/,12296,0,7633
+1680193024860,2861,HTTP Request-1,200,OK,newuser 1-109,text,true,,164231,122,393,393,https://www.rokomari.com/book,225,0,0
+1680193012869,14867,HTTP Request,200,OK,newuser 1-187,text,true,,165127,240,392,392,https://www.rokomari.com/book,11324,0,9480
+1680193012869,11324,HTTP Request-0,301,Moved Permanently,newuser 1-187,,true,,902,118,392,392,https://www.rokomari.com/,11324,0,9480
+1680193024192,3544,HTTP Request-1,200,OK,newuser 1-187,text,true,,164225,122,392,392,https://www.rokomari.com/book,135,0,0
+1680193013719,14067,HTTP Request,200,OK,newuser 1-274,text,true,,165120,240,391,391,https://www.rokomari.com/book,2569,0,2450
+1680193013719,2569,HTTP Request-0,301,Moved Permanently,newuser 1-274,,true,,902,118,391,391,https://www.rokomari.com/,2569,0,2450
+1680193016288,11498,HTTP Request-1,200,OK,newuser 1-274,text,true,,164218,122,391,391,https://www.rokomari.com/book,858,0,0
+1680193014400,13514,HTTP Request,200,OK,newuser 1-332,text,true,,165131,240,390,390,https://www.rokomari.com/book,12192,0,12073
+1680193014400,12192,HTTP Request-0,301,Moved Permanently,newuser 1-332,,true,,910,118,390,390,https://www.rokomari.com/,12192,0,12073
+1680193026591,1323,HTTP Request-1,200,OK,newuser 1-332,text,true,,164221,122,390,390,https://www.rokomari.com/book,120,0,0
+1680193012438,15487,HTTP Request,200,OK,newuser 1-20,text,true,,165135,240,389,389,https://www.rokomari.com/book,1916,0,1364
+1680193012438,1916,HTTP Request-0,301,Moved Permanently,newuser 1-20,,true,,900,118,389,389,https://www.rokomari.com/,1916,0,1364
+1680193014355,13570,HTTP Request-1,200,OK,newuser 1-20,text,true,,164235,122,389,389,https://www.rokomari.com/book,129,0,0
+1680193014756,13410,HTTP Request,200,OK,newuser 1-400,text,true,,165117,240,388,388,https://www.rokomari.com/book,4363,0,3898
+1680193014756,4363,HTTP Request-0,301,Moved Permanently,newuser 1-400,,true,,898,118,388,388,https://www.rokomari.com/,4363,0,3898
+1680193019119,9047,HTTP Request-1,200,OK,newuser 1-400,text,true,,164219,122,388,388,https://www.rokomari.com/book,126,0,0
+1680193013565,14602,HTTP Request,200,OK,newuser 1-265,text,true,,165121,240,388,388,https://www.rokomari.com/book,3006,0,2884
+1680193013565,3006,HTTP Request-0,301,Moved Permanently,newuser 1-265,,true,,896,118,388,388,https://www.rokomari.com/,3006,0,2884
+1680193016571,11596,HTTP Request-1,200,OK,newuser 1-265,text,true,,164225,122,388,388,https://www.rokomari.com/book,189,0,0
+1680193013598,14632,HTTP Request,200,OK,newuser 1-312,text,true,,165129,240,386,386,https://www.rokomari.com/book,3473,0,3370
+1680193013598,3473,HTTP Request-0,301,Moved Permanently,newuser 1-312,,true,,906,118,386,386,https://www.rokomari.com/,3473,0,3370
+1680193017071,11159,HTTP Request-1,200,OK,newuser 1-312,text,true,,164223,122,386,386,https://www.rokomari.com/book,1781,0,0
+1680193014569,13710,HTTP Request,200,OK,newuser 1-422,text,true,,165115,240,385,385,https://www.rokomari.com/book,5134,0,5039
+1680193014569,5134,HTTP Request-0,301,Moved Permanently,newuser 1-422,,true,,892,118,385,385,https://www.rokomari.com/,5134,0,5039
+1680193019704,8575,HTTP Request-1,200,OK,newuser 1-422,text,true,,164223,122,385,385,https://www.rokomari.com/book,103,0,0
+1680193012668,15697,HTTP Request,200,OK,newuser 1-131,text,true,,165135,240,384,384,https://www.rokomari.com/book,10841,0,10717
+1680193012668,10841,HTTP Request-0,301,Moved Permanently,newuser 1-131,,true,,902,118,384,384,https://www.rokomari.com/,10841,0,10717
+1680193023508,4857,HTTP Request-1,200,OK,newuser 1-131,text,true,,164233,122,384,384,https://www.rokomari.com/book,256,0,0
+1680193012444,15991,HTTP Request,200,OK,newuser 1-59,text,true,,165141,240,383,383,https://www.rokomari.com/book,4721,0,4610
+1680193012444,4721,HTTP Request-0,301,Moved Permanently,newuser 1-59,,true,,910,118,383,383,https://www.rokomari.com/,4721,0,4610
+1680193017165,11270,HTTP Request-1,200,OK,newuser 1-59,text,true,,164231,122,383,383,https://www.rokomari.com/book,118,0,0
+1680193014443,14022,HTTP Request,200,OK,newuser 1-353,text,true,,165118,240,382,382,https://www.rokomari.com/book,1348,0,1223
+1680193014443,1348,HTTP Request-0,301,Moved Permanently,newuser 1-353,,true,,896,118,382,382,https://www.rokomari.com/,1348,0,1223
+1680193015791,12674,HTTP Request-1,200,OK,newuser 1-353,text,true,,164222,122,382,382,https://www.rokomari.com/book,947,0,0
+1680193012560,15925,HTTP Request,200,OK,newuser 1-106,text,true,,165123,240,381,381,https://www.rokomari.com/book,12644,0,7741
+1680193012560,12644,HTTP Request-0,301,Moved Permanently,newuser 1-106,,true,,898,118,381,381,https://www.rokomari.com/,12644,0,7741
+1680193025203,3282,HTTP Request-1,200,OK,newuser 1-106,text,true,,164225,122,381,381,https://www.rokomari.com/book,113,0,0
+1680193012531,16022,HTTP Request,200,OK,newuser 1-88,text,true,,165135,240,380,380,https://www.rokomari.com/book,1795,0,1262
+1680193012531,1795,HTTP Request-0,301,Moved Permanently,newuser 1-88,,true,,898,118,380,380,https://www.rokomari.com/,1795,0,1262
+1680193014326,14227,HTTP Request-1,200,OK,newuser 1-88,text,true,,164237,122,380,380,https://www.rokomari.com/book,104,0,0
+1680193012593,15973,HTTP Request,200,OK,newuser 1-119,text,true,,165133,240,379,379,https://www.rokomari.com/book,10886,0,10773
+1680193012593,10886,HTTP Request-0,301,Moved Permanently,newuser 1-119,,true,,904,118,379,379,https://www.rokomari.com/,10886,0,10773
+1680193023478,5088,HTTP Request-1,200,OK,newuser 1-119,text,true,,164229,122,379,379,https://www.rokomari.com/book,391,0,0
+1680193013661,15010,HTTP Request,200,OK,newuser 1-340,text,true,,165140,240,378,378,https://www.rokomari.com/book,2622,0,395
+1680193013661,2622,HTTP Request-0,301,Moved Permanently,newuser 1-340,,true,,900,118,378,378,https://www.rokomari.com/,2622,0,395
+1680193016283,12388,HTTP Request-1,200,OK,newuser 1-340,text,true,,164240,122,378,378,https://www.rokomari.com/book,855,0,0
+1680193013116,15583,HTTP Request,200,OK,newuser 1-246,text,true,,165119,240,377,377,https://www.rokomari.com/book,2960,0,268
+1680193013116,2960,HTTP Request-0,301,Moved Permanently,newuser 1-246,,true,,896,118,377,377,https://www.rokomari.com/,2960,0,268
+1680193016077,12622,HTTP Request-1,200,OK,newuser 1-246,text,true,,164223,122,377,377,https://www.rokomari.com/book,120,0,0
+1680193014729,13993,HTTP Request,200,OK,newuser 1-496,text,true,,165127,240,376,376,https://www.rokomari.com/book,2343,0,2239
+1680193014729,2343,HTTP Request-0,301,Moved Permanently,newuser 1-496,,true,,898,118,376,376,https://www.rokomari.com/,2343,0,2239
+1680193017072,11650,HTTP Request-1,200,OK,newuser 1-496,text,true,,164229,122,376,376,https://www.rokomari.com/book,116,0,0
+1680193014660,14082,HTTP Request,200,OK,newuser 1-484,text,true,,165138,240,375,375,https://www.rokomari.com/book,1839,0,1720
+1680193014660,1839,HTTP Request-0,301,Moved Permanently,newuser 1-484,,true,,908,118,375,375,https://www.rokomari.com/,1839,0,1720
+1680193016500,12242,HTTP Request-1,200,OK,newuser 1-484,text,true,,164230,122,375,375,https://www.rokomari.com/book,128,0,0
+1680193013109,15712,HTTP Request,200,OK,newuser 1-242,text,true,,165118,240,374,374,https://www.rokomari.com/book,4448,0,3180
+1680193013109,4448,HTTP Request-0,301,Moved Permanently,newuser 1-242,,true,,894,118,374,374,https://www.rokomari.com/,4448,0,3180
+1680193017557,11264,HTTP Request-1,200,OK,newuser 1-242,text,true,,164224,122,374,374,https://www.rokomari.com/book,109,0,0
+1680193012522,16299,HTTP Request,200,OK,newuser 1-92,text,true,,165123,240,373,373,https://www.rokomari.com/book,14358,0,12285
+1680193012522,14358,HTTP Request-0,301,Moved Permanently,newuser 1-92,,true,,904,118,373,373,https://www.rokomari.com/,14358,0,12285
+1680193026879,1942,HTTP Request-1,200,OK,newuser 1-92,text,true,,164219,122,373,373,https://www.rokomari.com/book,177,0,0
+1680193013677,15168,HTTP Request,200,OK,newuser 1-357,text,true,,165130,240,372,372,https://www.rokomari.com/book,9872,0,9776
+1680193013677,9872,HTTP Request-0,301,Moved Permanently,newuser 1-357,,true,,900,118,372,372,https://www.rokomari.com/,9872,0,9776
+1680193023549,5296,HTTP Request-1,200,OK,newuser 1-357,text,true,,164230,122,372,372,https://www.rokomari.com/book,1208,0,0
+1680193012434,16449,HTTP Request,200,OK,newuser 1-55,text,true,,165139,240,371,371,https://www.rokomari.com/book,12338,0,3911
+1680193012434,12338,HTTP Request-0,301,Moved Permanently,newuser 1-55,,true,,902,118,371,371,https://www.rokomari.com/,12338,0,3911
+1680193024771,4112,HTTP Request-1,200,OK,newuser 1-55,text,true,,164237,122,371,371,https://www.rokomari.com/book,137,0,0
+1680193012918,15984,HTTP Request,200,OK,newuser 1-200,text,true,,165119,240,370,370,https://www.rokomari.com/book,2292,0,2194
+1680193012918,2292,HTTP Request-0,301,Moved Permanently,newuser 1-200,,true,,896,118,370,370,https://www.rokomari.com/,2292,0,2194
+1680193015210,13692,HTTP Request-1,200,OK,newuser 1-200,text,true,,164223,122,370,370,https://www.rokomari.com/book,3708,0,0
+1680193014554,14377,HTTP Request,200,OK,newuser 1-401,text,true,,165139,240,369,369,https://www.rokomari.com/book,2409,0,136
+1680193014554,2409,HTTP Request-0,301,Moved Permanently,newuser 1-401,,true,,904,118,369,369,https://www.rokomari.com/,2409,0,136
+1680193016963,11968,HTTP Request-1,200,OK,newuser 1-401,text,true,,164235,122,369,369,https://www.rokomari.com/book,226,0,0
+1680193013042,15901,HTTP Request,200,OK,newuser 1-237,text,true,,165126,240,368,368,https://www.rokomari.com/book,10512,0,6546
+1680193013042,10512,HTTP Request-0,301,Moved Permanently,newuser 1-237,,true,,898,118,368,368,https://www.rokomari.com/,10512,0,6546
+1680193023553,5390,HTTP Request-1,200,OK,newuser 1-237,text,true,,164228,122,368,368,https://www.rokomari.com/book,106,0,0
+1680193012727,16255,HTTP Request,200,OK,newuser 1-162,text,true,,165118,240,367,367,https://www.rokomari.com/book,6430,0,6279
+1680193012727,6430,HTTP Request-0,301,Moved Permanently,newuser 1-162,,true,,900,118,367,367,https://www.rokomari.com/,6430,0,6279
+1680193019157,9825,HTTP Request-1,200,OK,newuser 1-162,text,true,,164218,122,367,367,https://www.rokomari.com/book,213,0,0
+1680193014742,14254,HTTP Request,200,OK,newuser 1-500,text,true,,165125,240,366,366,https://www.rokomari.com/book,4275,0,534
+1680193014742,4275,HTTP Request-0,301,Moved Permanently,newuser 1-500,,true,,898,118,366,366,https://www.rokomari.com/,4275,0,534
+1680193019018,9978,HTTP Request-1,200,OK,newuser 1-500,text,true,,164227,122,366,366,https://www.rokomari.com/book,195,0,0
+1680193012525,16504,HTTP Request,200,OK,newuser 1-95,text,true,,165131,240,365,365,https://www.rokomari.com/book,2839,0,901
+1680193012525,2839,HTTP Request-0,301,Moved Permanently,newuser 1-95,,true,,904,118,365,365,https://www.rokomari.com/,2839,0,901
+1680193015365,13664,HTTP Request-1,200,OK,newuser 1-95,text,true,,164227,122,365,365,https://www.rokomari.com/book,290,0,0
+1680193012648,16419,HTTP Request,200,OK,newuser 1-135,text,true,,165115,240,364,364,https://www.rokomari.com/book,9877,0,9506
+1680193012648,9877,HTTP Request-0,301,Moved Permanently,newuser 1-135,,true,,898,118,364,364,https://www.rokomari.com/,9877,0,9506
+1680193022524,6543,HTTP Request-1,200,OK,newuser 1-135,text,true,,164217,122,364,364,https://www.rokomari.com/book,948,0,0
+1680193012581,16557,HTTP Request,200,OK,newuser 1-115,text,true,,165127,240,363,363,https://www.rokomari.com/book,3522,0,3400
+1680193012581,3522,HTTP Request-0,301,Moved Permanently,newuser 1-115,,true,,896,118,363,363,https://www.rokomari.com/,3522,0,3400
+1680193016104,13034,HTTP Request-1,200,OK,newuser 1-115,text,true,,164231,122,363,363,https://www.rokomari.com/book,898,0,0
+1680193013569,15661,HTTP Request,200,OK,newuser 1-268,text,true,,165125,240,362,362,https://www.rokomari.com/book,3236,0,2898
+1680193013569,3236,HTTP Request-0,301,Moved Permanently,newuser 1-268,,true,,896,118,362,362,https://www.rokomari.com/,3236,0,2898
+1680193016805,12425,HTTP Request-1,200,OK,newuser 1-268,text,true,,164229,122,362,362,https://www.rokomari.com/book,159,0,0
+1680193014734,14610,HTTP Request,200,OK,newuser 1-497,text,true,,165133,240,361,361,https://www.rokomari.com/book,495,0,140
+1680193014734,495,HTTP Request-0,301,Moved Permanently,newuser 1-497,,true,,900,118,361,361,https://www.rokomari.com/,495,0,140
+1680193015230,14114,HTTP Request-1,200,OK,newuser 1-497,text,true,,164233,122,361,361,https://www.rokomari.com/book,126,0,0
+1680193014910,14450,HTTP Request,200,OK,newuser 1-444,text,true,,165134,240,360,360,https://www.rokomari.com/book,11533,0,11433
+1680193014910,11533,HTTP Request-0,301,Moved Permanently,newuser 1-444,,true,,900,118,360,360,https://www.rokomari.com/,11533,0,11433
+1680193026443,2917,HTTP Request-1,200,OK,newuser 1-444,text,true,,164234,122,360,360,https://www.rokomari.com/book,114,0,0
+1680193014184,15198,HTTP Request,200,OK,newuser 1-347,text,true,,165133,240,359,359,https://www.rokomari.com/book,6005,0,3895
+1680193014184,6005,HTTP Request-0,301,Moved Permanently,newuser 1-347,,true,,898,118,359,359,https://www.rokomari.com/,6005,0,3895
+1680193020189,9193,HTTP Request-1,200,OK,newuser 1-347,text,true,,164235,122,359,359,https://www.rokomari.com/book,187,0,0
+1680193013719,15684,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-395,text,false,,2098,0,358,358,https://www.rokomari.com/,0,0,15679
+1680193013024,16414,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-232,text,false,,2098,0,357,357,https://www.rokomari.com/,0,0,16413
+1680193014104,15338,HTTP Request,200,OK,newuser 1-366,text,true,,165128,240,356,356,https://www.rokomari.com/book,4520,0,3301
+1680193014104,4520,HTTP Request-0,301,Moved Permanently,newuser 1-366,,true,,898,118,356,356,https://www.rokomari.com/,4520,0,3301
+1680193018625,10817,HTTP Request-1,200,OK,newuser 1-366,text,true,,164230,122,356,356,https://www.rokomari.com/book,193,0,0
+1680193013665,15856,HTTP Request,200,OK,newuser 1-343,text,true,,165131,240,355,355,https://www.rokomari.com/book,3491,0,3131
+1680193013665,3491,HTTP Request-0,301,Moved Permanently,newuser 1-343,,true,,898,118,355,355,https://www.rokomari.com/,3491,0,3131
+1680193017156,12365,HTTP Request-1,200,OK,newuser 1-343,text,true,,164233,122,355,355,https://www.rokomari.com/book,147,0,0
+1680193014546,14976,HTTP Request,200,OK,newuser 1-407,text,true,,165138,240,354,354,https://www.rokomari.com/book,3346,0,3244
+1680193014546,3346,HTTP Request-0,301,Moved Permanently,newuser 1-407,,true,,912,118,354,354,https://www.rokomari.com/,3346,0,3244
+1680193017892,11630,HTTP Request-1,200,OK,newuser 1-407,text,true,,164226,122,354,354,https://www.rokomari.com/book,199,0,0
+1680193012571,16964,HTTP Request,200,OK,newuser 1-113,text,true,,165127,240,353,353,https://www.rokomari.com/book,12713,0,5277
+1680193012431,17105,HTTP Request,200,OK,newuser 1-24,text,true,,165125,240,353,353,https://www.rokomari.com/book,7025,0,6922
+1680193012571,12713,HTTP Request-0,301,Moved Permanently,newuser 1-113,,true,,904,118,353,353,https://www.rokomari.com/,12713,0,5277
+1680193012431,7025,HTTP Request-0,301,Moved Permanently,newuser 1-24,,true,,898,118,353,353,https://www.rokomari.com/,7025,0,6922
+1680193025283,4252,HTTP Request-1,200,OK,newuser 1-113,text,true,,164223,122,353,353,https://www.rokomari.com/book,537,0,0
+1680193019456,10080,HTTP Request-1,200,OK,newuser 1-24,text,true,,164227,122,353,353,https://www.rokomari.com/book,105,0,0
+1680193012861,16718,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-179,text,false,,2098,0,351,351,https://www.rokomari.com/,0,0,16716
+1680193012473,17137,HTTP Request,200,OK,newuser 1-45,text,true,,165135,240,350,350,https://www.rokomari.com/book,4333,0,3133
+1680193012473,4333,HTTP Request-0,301,Moved Permanently,newuser 1-45,,true,,902,118,350,350,https://www.rokomari.com/,4333,0,3133
+1680193016806,12804,HTTP Request-1,200,OK,newuser 1-45,text,true,,164233,122,350,350,https://www.rokomari.com/book,117,0,0
+1680193013721,15906,HTTP Request,200,OK,newuser 1-305,text,true,,165133,240,349,349,https://www.rokomari.com/book,4123,0,2449
+1680193013721,4123,HTTP Request-0,301,Moved Permanently,newuser 1-305,,true,,906,118,349,349,https://www.rokomari.com/,4123,0,2449
+1680193017844,11783,HTTP Request-1,200,OK,newuser 1-305,text,true,,164227,122,349,349,https://www.rokomari.com/book,874,0,0
+1680193012563,17111,HTTP Request,200,OK,newuser 1-108,text,true,,165135,240,348,348,https://www.rokomari.com/book,3550,0,3381
+1680193012563,3550,HTTP Request-0,301,Moved Permanently,newuser 1-108,,true,,904,118,348,348,https://www.rokomari.com/,3550,0,3381
+1680193016114,13560,HTTP Request-1,200,OK,newuser 1-108,text,true,,164231,122,348,348,https://www.rokomari.com/book,244,0,0
+1680193012479,17245,HTTP Request,200,OK,newuser 1-68,text,true,,165139,240,347,347,https://www.rokomari.com/book,3780,0,3134
+1680193012479,3780,HTTP Request-0,301,Moved Permanently,newuser 1-68,,true,,904,118,347,347,https://www.rokomari.com/,3780,0,3134
+1680193016259,13465,HTTP Request-1,200,OK,newuser 1-68,text,true,,164235,122,347,347,https://www.rokomari.com/book,177,0,0
+1680193012438,17308,HTTP Request,200,OK,newuser 1-28,text,true,,165135,240,346,346,https://www.rokomari.com/book,3461,0,970
+1680193012438,3461,HTTP Request-0,301,Moved Permanently,newuser 1-28,,true,,900,118,346,346,https://www.rokomari.com/,3461,0,970
+1680193015900,13846,HTTP Request-1,200,OK,newuser 1-28,text,true,,164235,122,346,346,https://www.rokomari.com/book,105,0,0
+1680193013733,16052,HTTP Request,200,OK,newuser 1-381,text,true,,165124,240,345,345,https://www.rokomari.com/book,2446,0,2084
+1680193013733,2446,HTTP Request-0,301,Moved Permanently,newuser 1-381,,true,,904,118,345,345,https://www.rokomari.com/,2446,0,2084
+1680193016179,13606,HTTP Request-1,200,OK,newuser 1-381,text,true,,164220,122,345,345,https://www.rokomari.com/book,119,0,0
+1680193013557,16298,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-264,text,false,,2098,0,344,344,https://www.rokomari.com/,0,0,16295
+1680193013117,16878,HTTP Request,200,OK,newuser 1-245,text,true,,165129,240,343,343,https://www.rokomari.com/book,3435,0,3315
+1680193013117,3435,HTTP Request-0,301,Moved Permanently,newuser 1-245,,true,,900,118,343,343,https://www.rokomari.com/,3435,0,3315
+1680193016553,13442,HTTP Request-1,200,OK,newuser 1-245,text,true,,164229,122,343,343,https://www.rokomari.com/book,849,0,0
+1680193014640,15364,HTTP Request,200,OK,newuser 1-461,text,true,,165130,240,342,342,https://www.rokomari.com/book,3786,0,3413
+1680193014640,3786,HTTP Request-0,301,Moved Permanently,newuser 1-461,,true,,896,118,342,342,https://www.rokomari.com/,3786,0,3413
+1680193018426,11578,HTTP Request-1,200,OK,newuser 1-461,text,true,,164234,122,342,342,https://www.rokomari.com/book,228,0,0
+1680193014660,15356,HTTP Request,200,OK,newuser 1-485,text,true,,165127,240,341,341,https://www.rokomari.com/book,7404,0,7234
+1680193014660,7404,HTTP Request-0,301,Moved Permanently,newuser 1-485,,true,,902,118,341,341,https://www.rokomari.com/,7404,0,7234
+1680193022064,7952,HTTP Request-1,200,OK,newuser 1-485,text,true,,164225,122,341,341,https://www.rokomari.com/book,127,0,0
+1680193012858,17213,HTTP Request,200,OK,newuser 1-178,text,true,,165122,240,340,340,https://www.rokomari.com/book,5058,0,4713
+1680193012858,5058,HTTP Request-0,301,Moved Permanently,newuser 1-178,,true,,902,118,340,340,https://www.rokomari.com/,5058,0,4713
+1680193017917,12154,HTTP Request-1,200,OK,newuser 1-178,text,true,,164220,122,340,340,https://www.rokomari.com/book,126,0,0
+1680193013593,16566,HTTP Request,200,OK,newuser 1-276,text,true,,165126,240,339,339,https://www.rokomari.com/book,5061,0,4957
+1680193013593,5061,HTTP Request-0,301,Moved Permanently,newuser 1-276,,true,,896,118,339,339,https://www.rokomari.com/,5061,0,4957
+1680193018655,11504,HTTP Request-1,200,OK,newuser 1-276,text,true,,164230,122,339,339,https://www.rokomari.com/book,1876,0,0
+1680193012924,17276,HTTP Request,200,OK,newuser 1-204,text,true,,165135,240,338,338,https://www.rokomari.com/book,5793,0,2723
+1680193012924,5793,HTTP Request-0,301,Moved Permanently,newuser 1-204,,true,,906,118,338,338,https://www.rokomari.com/,5793,0,2723
+1680193018717,11483,HTTP Request-1,200,OK,newuser 1-204,text,true,,164229,122,338,338,https://www.rokomari.com/book,201,0,0
+1680193012689,17556,HTTP Request,200,OK,newuser 1-145,text,true,,165145,240,337,337,https://www.rokomari.com/book,6977,0,3925
+1680193012689,6977,HTTP Request-0,301,Moved Permanently,newuser 1-145,,true,,904,118,337,337,https://www.rokomari.com/,6977,0,3925
+1680193019666,10579,HTTP Request-1,200,OK,newuser 1-145,text,true,,164241,122,337,337,https://www.rokomari.com/book,141,0,0
+1680193013614,16687,HTTP Request,200,OK,newuser 1-301,text,true,,165127,240,336,336,https://www.rokomari.com/book,2527,0,1373
+1680193013614,2527,HTTP Request-0,301,Moved Permanently,newuser 1-301,,true,,900,118,336,336,https://www.rokomari.com/,2527,0,1373
+1680193016142,14159,HTTP Request-1,200,OK,newuser 1-301,text,true,,164227,122,336,336,https://www.rokomari.com/book,847,0,0
+1680193012711,17621,HTTP Request,200,OK,newuser 1-155,text,true,,165133,240,335,335,https://www.rokomari.com/book,3813,0,3699
+1680193012711,3813,HTTP Request-0,301,Moved Permanently,newuser 1-155,,true,,902,118,335,335,https://www.rokomari.com/,3813,0,3699
+1680193016524,13808,HTTP Request-1,200,OK,newuser 1-155,text,true,,164231,122,335,335,https://www.rokomari.com/book,843,0,0
+1680193013670,16662,HTTP Request,200,OK,newuser 1-344,text,true,,165127,240,335,335,https://www.rokomari.com/book,1889,0,1786
+1680193013670,1889,HTTP Request-0,301,Moved Permanently,newuser 1-344,,true,,892,118,335,335,https://www.rokomari.com/,1889,0,1786
+1680193015559,14773,HTTP Request-1,200,OK,newuser 1-344,text,true,,164235,122,335,335,https://www.rokomari.com/book,519,0,0
+1680193013730,16603,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-391,text,false,,2098,0,333,333,https://www.rokomari.com/,0,0,16602
+1680193012961,17384,HTTP Request,200,OK,newuser 1-217,text,true,,165133,240,332,332,https://www.rokomari.com/book,2392,0,522
+1680193012961,2392,HTTP Request-0,301,Moved Permanently,newuser 1-217,,true,,904,118,332,332,https://www.rokomari.com/,2392,0,522
+1680193015354,14991,HTTP Request-1,200,OK,newuser 1-217,text,true,,164229,122,332,332,https://www.rokomari.com/book,128,0,0
+1680193014787,15583,HTTP Request,200,OK,newuser 1-442,text,true,,165131,240,331,331,https://www.rokomari.com/book,1344,0,467
+1680193014787,1344,HTTP Request-0,301,Moved Permanently,newuser 1-442,,true,,902,118,331,331,https://www.rokomari.com/,1344,0,467
+1680193016131,14239,HTTP Request-1,200,OK,newuser 1-442,text,true,,164229,122,331,331,https://www.rokomari.com/book,1921,0,0
+1680193014889,15506,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-482,text,false,,2098,0,330,330,https://www.rokomari.com/,0,0,15504
+1680193014888,15527,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-465,text,false,,2098,0,329,329,https://www.rokomari.com/,0,0,15527
+1680193014845,15595,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-486,text,false,,2098,0,328,328,https://www.rokomari.com/,0,0,15595
+1680193012430,18044,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-34,text,false,,2098,0,327,327,https://www.rokomari.com/,0,0,18044
+1680193013679,16906,HTTP Request,200,OK,newuser 1-361,text,true,,165114,240,326,326,https://www.rokomari.com/book,3939,0,3584
+1680193013679,3939,HTTP Request-0,301,Moved Permanently,newuser 1-361,,true,,898,118,326,326,https://www.rokomari.com/,3939,0,3584
+1680193017618,12967,HTTP Request-1,200,OK,newuser 1-361,text,true,,164216,122,326,326,https://www.rokomari.com/book,108,0,0
+1680193013721,16879,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-323,text,false,,2098,0,325,325,https://www.rokomari.com/,0,0,16878
+1680193014568,16176,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-420,text,false,,2098,0,324,324,https://www.rokomari.com/,0,0,16176
+1680193012694,18146,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-144,text,false,,2098,0,323,323,https://www.rokomari.com/,0,0,18145
+1680193014663,16283,HTTP Request,200,OK,newuser 1-489,text,true,,165131,240,322,322,https://www.rokomari.com/book,14748,0,14639
+1680193014663,14748,HTTP Request-0,301,Moved Permanently,newuser 1-489,,true,,900,118,322,322,https://www.rokomari.com/,14748,0,14639
+1680193029412,1534,HTTP Request-1,200,OK,newuser 1-489,text,true,,164231,122,322,322,https://www.rokomari.com/book,227,0,0
+1680193014647,16301,HTTP Request,200,OK,newuser 1-472,text,true,,165135,240,321,321,https://www.rokomari.com/book,3627,0,1848
+1680193014647,3627,HTTP Request-0,301,Moved Permanently,newuser 1-472,,true,,908,118,321,321,https://www.rokomari.com/,3627,0,1848
+1680193018274,12674,HTTP Request-1,200,OK,newuser 1-472,text,true,,164227,122,321,321,https://www.rokomari.com/book,110,0,0
+1680193013603,17446,HTTP Request,200,OK,newuser 1-311,text,true,,165130,240,320,320,https://www.rokomari.com/book,15717,0,3185
+1680193013603,15717,HTTP Request-0,301,Moved Permanently,newuser 1-311,,true,,896,118,320,320,https://www.rokomari.com/,15717,0,3185
+1680193013644,17404,HTTP Request,200,OK,newuser 1-316,text,true,,165127,240,320,320,https://www.rokomari.com/book,8086,0,4361
+1680193029321,1728,HTTP Request-1,200,OK,newuser 1-311,text,true,,164234,122,320,320,https://www.rokomari.com/book,101,0,0
+1680193013644,8086,HTTP Request-0,301,Moved Permanently,newuser 1-316,,true,,898,118,320,320,https://www.rokomari.com/,8086,0,4361
+1680193021730,9318,HTTP Request-1,200,OK,newuser 1-316,text,true,,164229,122,320,320,https://www.rokomari.com/book,102,0,0
+1680193012477,18621,HTTP Request,200,OK,newuser 1-66,text,true,,165121,240,318,318,https://www.rokomari.com/book,1462,0,1384
+1680193012477,1814,HTTP Request-0,301,Moved Permanently,newuser 1-66,,true,,896,118,318,318,https://www.rokomari.com/,1462,0,1384
+1680193014291,16807,HTTP Request-1,200,OK,newuser 1-66,text,true,,164225,122,318,318,https://www.rokomari.com/book,148,0,0
+1680193012968,18172,HTTP Request,200,OK,newuser 1-219,text,true,,165132,240,317,317,https://www.rokomari.com/book,1053,0,969
+1680193012968,1188,HTTP Request-0,301,Moved Permanently,newuser 1-219,,true,,900,118,317,317,https://www.rokomari.com/,1053,0,969
+1680193014176,16964,HTTP Request-1,200,OK,newuser 1-219,text,true,,164232,122,317,317,https://www.rokomari.com/book,100,0,0
+1680193012936,18210,HTTP Request,200,OK,newuser 1-210,text,true,,165133,240,316,316,https://www.rokomari.com/book,3760,0,3641
+1680193012936,3760,HTTP Request-0,301,Moved Permanently,newuser 1-210,,true,,898,118,316,316,https://www.rokomari.com/,3760,0,3641
+1680193016696,14450,HTTP Request-1,200,OK,newuser 1-210,text,true,,164235,122,316,316,https://www.rokomari.com/book,408,0,0
+1680193013416,17758,HTTP Request,200,OK,newuser 1-247,text,true,,165123,240,315,315,https://www.rokomari.com/book,489,0,406
+1680193013416,999,HTTP Request-0,301,Moved Permanently,newuser 1-247,,true,,902,118,315,315,https://www.rokomari.com/,489,0,406
+1680193014415,16759,HTTP Request-1,200,OK,newuser 1-247,text,true,,164221,122,315,315,https://www.rokomari.com/book,175,0,0
+1680193013650,17683,HTTP Request,200,OK,newuser 1-320,text,true,,165131,240,314,314,https://www.rokomari.com/book,653,0,553
+1680193013650,653,HTTP Request-0,301,Moved Permanently,newuser 1-320,,true,,902,118,314,314,https://www.rokomari.com/,653,0,553
+1680193014303,17030,HTTP Request-1,200,OK,newuser 1-320,text,true,,164229,122,314,314,https://www.rokomari.com/book,142,0,0
+1680193015001,16357,HTTP Request,200,OK,newuser 1-429,text,true,,165119,240,313,313,https://www.rokomari.com/book,15608,0,15503
+1680193015001,15608,HTTP Request-0,301,Moved Permanently,newuser 1-429,,true,,896,118,313,313,https://www.rokomari.com/,15608,0,15503
+1680193030610,748,HTTP Request-1,200,OK,newuser 1-429,text,true,,164223,122,313,313,https://www.rokomari.com/book,107,0,0
+1680193014650,16805,HTTP Request,200,OK,newuser 1-474,text,true,,165132,240,312,312,https://www.rokomari.com/book,926,0,532
+1680193014650,926,HTTP Request-0,301,Moved Permanently,newuser 1-474,,true,,904,118,312,312,https://www.rokomari.com/,926,0,532
+1680193015576,15879,HTTP Request-1,200,OK,newuser 1-474,text,true,,164228,122,312,312,https://www.rokomari.com/book,144,0,0
+1680193013544,17922,HTTP Request,200,OK,newuser 1-258,text,true,,165128,240,311,311,https://www.rokomari.com/book,16457,0,5374
+1680193013544,16457,HTTP Request-0,301,Moved Permanently,newuser 1-258,,true,,898,118,311,311,https://www.rokomari.com/,16457,0,5374
+1680193030002,1464,HTTP Request-1,200,OK,newuser 1-258,text,true,,164230,122,311,311,https://www.rokomari.com/book,177,0,0
+1680193013714,17808,HTTP Request,200,OK,newuser 1-384,text,true,,165127,240,310,310,https://www.rokomari.com/book,2857,0,2741
+1680193013714,2857,HTTP Request-0,301,Moved Permanently,newuser 1-384,,true,,906,118,310,310,https://www.rokomari.com/,2857,0,2741
+1680193016571,14951,HTTP Request-1,200,OK,newuser 1-384,text,true,,164221,122,310,310,https://www.rokomari.com/book,156,0,0
+1680193014665,16871,HTTP Request,200,OK,newuser 1-490,text,true,,165133,240,309,309,https://www.rokomari.com/book,15146,0,7388
+1680193014665,15146,HTTP Request-0,301,Moved Permanently,newuser 1-490,,true,,904,118,309,309,https://www.rokomari.com/,15146,0,7388
+1680193029813,1723,HTTP Request-1,200,OK,newuser 1-490,text,true,,164229,122,309,309,https://www.rokomari.com/book,152,0,0
+1680193014091,17454,HTTP Request,200,OK,newuser 1-329,text,true,,165131,240,308,308,https://www.rokomari.com/book,2727,0,2627
+1680193014091,2727,HTTP Request-0,301,Moved Permanently,newuser 1-329,,true,,902,118,308,308,https://www.rokomari.com/,2727,0,2627
+1680193016818,14727,HTTP Request-1,200,OK,newuser 1-329,text,true,,164229,122,308,308,https://www.rokomari.com/book,156,0,0
+1680193013539,18010,HTTP Request,200,OK,newuser 1-257,text,true,,165129,240,307,307,https://www.rokomari.com/book,3898,0,2646
+1680193013539,3898,HTTP Request-0,301,Moved Permanently,newuser 1-257,,true,,898,118,307,307,https://www.rokomari.com/,3898,0,2646
+1680193017438,14111,HTTP Request-1,200,OK,newuser 1-257,text,true,,164231,122,307,307,https://www.rokomari.com/book,115,0,0
+1680193013691,17899,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-375,text,false,,2098,0,306,306,https://www.rokomari.com/,0,0,17898
+1680193013732,17904,HTTP Request,200,OK,newuser 1-393,text,true,,165127,240,305,305,https://www.rokomari.com/book,3369,0,2405
+1680193013732,3369,HTTP Request-0,301,Moved Permanently,newuser 1-393,,true,,898,118,305,305,https://www.rokomari.com/,3369,0,2405
+1680193017101,14535,HTTP Request-1,200,OK,newuser 1-393,text,true,,164229,122,305,305,https://www.rokomari.com/book,405,0,0
+1680193013710,18027,HTTP Request,200,OK,newuser 1-392,text,true,,165127,240,304,304,https://www.rokomari.com/book,5213,0,5103
+1680193013710,5213,HTTP Request-0,301,Moved Permanently,newuser 1-392,,true,,902,118,304,304,https://www.rokomari.com/,5213,0,5103
+1680193018923,12814,HTTP Request-1,200,OK,newuser 1-392,text,true,,164225,122,304,304,https://www.rokomari.com/book,865,0,0
+1680193012683,19136,HTTP Request,200,OK,newuser 1-134,text,true,,165130,240,303,303,https://www.rokomari.com/book,4314,0,3931
+1680193012683,4314,HTTP Request-0,301,Moved Permanently,newuser 1-134,,true,,900,118,303,303,https://www.rokomari.com/,4314,0,3931
+1680193016997,14822,HTTP Request-1,200,OK,newuser 1-134,text,true,,164230,122,303,303,https://www.rokomari.com/book,108,0,0
+1680193013001,18992,HTTP Request,200,OK,newuser 1-224,text,true,,165121,240,302,302,https://www.rokomari.com/book,16846,0,5903
+1680193013001,16846,HTTP Request-0,301,Moved Permanently,newuser 1-224,,true,,898,118,302,302,https://www.rokomari.com/,16846,0,5903
+1680193029848,2145,HTTP Request-1,200,OK,newuser 1-224,text,true,,164223,122,302,302,https://www.rokomari.com/book,124,0,0
+1680193013618,18391,HTTP Request,200,OK,newuser 1-298,text,true,,165125,240,301,301,https://www.rokomari.com/book,2897,0,1629
+1680193013618,2897,HTTP Request-0,301,Moved Permanently,newuser 1-298,,true,,902,118,301,301,https://www.rokomari.com/,2897,0,1629
+1680193016515,15494,HTTP Request-1,200,OK,newuser 1-298,text,true,,164223,122,301,301,https://www.rokomari.com/book,382,0,0
+1680193012433,19679,HTTP Request,200,OK,newuser 1-26,text,true,,165120,240,300,300,https://www.rokomari.com/book,4311,0,3937
+1680193012433,4311,HTTP Request-0,301,Moved Permanently,newuser 1-26,,true,,896,118,300,300,https://www.rokomari.com/,4311,0,3937
+1680193016744,15368,HTTP Request-1,200,OK,newuser 1-26,text,true,,164224,122,300,300,https://www.rokomari.com/book,121,0,0
+1680193014601,17542,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-446,text,false,,2098,0,299,299,https://www.rokomari.com/,0,0,17542
+1680193014116,18170,HTTP Request,200,OK,newuser 1-404,text,true,,165136,240,298,298,https://www.rokomari.com/book,9736,0,9587
+1680193014116,9736,HTTP Request-0,301,Moved Permanently,newuser 1-404,,true,,898,118,298,298,https://www.rokomari.com/,9736,0,9587
+1680193023852,8434,HTTP Request-1,200,OK,newuser 1-404,text,true,,164238,122,298,298,https://www.rokomari.com/book,880,0,0
+1680193014389,17900,HTTP Request,200,OK,newuser 1-317,text,true,,165131,240,298,298,https://www.rokomari.com/book,16535,0,16436
+1680193014389,16535,HTTP Request-0,301,Moved Permanently,newuser 1-317,,true,,904,118,298,298,https://www.rokomari.com/,16535,0,16436
+1680193030925,1364,HTTP Request-1,200,OK,newuser 1-317,text,true,,164227,122,298,298,https://www.rokomari.com/book,154,0,0
+1680193013119,19169,HTTP Request,200,OK,newuser 1-243,text,true,,165125,240,297,297,https://www.rokomari.com/book,2242,0,307
+1680193013119,2242,HTTP Request-0,301,Moved Permanently,newuser 1-243,,true,,898,118,297,297,https://www.rokomari.com/,2242,0,307
+1680193015361,16927,HTTP Request-1,200,OK,newuser 1-243,text,true,,164227,122,297,297,https://www.rokomari.com/book,169,0,0
+1680193013547,18763,HTTP Request,200,OK,newuser 1-261,text,true,,165133,240,295,295,https://www.rokomari.com/book,16307,0,5308
+1680193013547,16307,HTTP Request-0,301,Moved Permanently,newuser 1-261,,true,,902,118,295,295,https://www.rokomari.com/,16307,0,5308
+1680193029855,2455,HTTP Request-1,200,OK,newuser 1-261,text,true,,164231,122,295,295,https://www.rokomari.com/book,142,0,0
+1680193012508,19819,HTTP Request,200,OK,newuser 1-82,text,true,,165114,240,294,294,https://www.rokomari.com/book,3409,0,856
+1680193012508,3409,HTTP Request-0,301,Moved Permanently,newuser 1-82,,true,,896,118,294,294,https://www.rokomari.com/,3409,0,856
+1680193015917,16410,HTTP Request-1,200,OK,newuser 1-82,text,true,,164218,122,294,294,https://www.rokomari.com/book,446,0,0
+1680193013689,18753,HTTP Request,200,OK,newuser 1-359,text,true,,165133,240,293,293,https://www.rokomari.com/book,548,0,464
+1680193013689,548,HTTP Request-0,301,Moved Permanently,newuser 1-359,,true,,908,118,293,293,https://www.rokomari.com/,548,0,464
+1680193014238,18204,HTTP Request-1,200,OK,newuser 1-359,text,true,,164225,122,293,293,https://www.rokomari.com/book,183,0,0
+1680193013715,18770,HTTP Request,200,OK,newuser 1-382,text,true,,165126,240,292,292,https://www.rokomari.com/book,2131,0,2009
+1680193013715,2131,HTTP Request-0,301,Moved Permanently,newuser 1-382,,true,,898,118,292,292,https://www.rokomari.com/,2131,0,2009
+1680193015846,16639,HTTP Request-1,200,OK,newuser 1-382,text,true,,164228,122,292,292,https://www.rokomari.com/book,1916,0,0
+1680193014560,17987,HTTP Request,200,OK,newuser 1-411,text,true,,165138,240,291,291,https://www.rokomari.com/book,261,0,136
+1680193014560,261,HTTP Request-0,301,Moved Permanently,newuser 1-411,,true,,902,118,291,291,https://www.rokomari.com/,261,0,136
+1680193014821,17726,HTTP Request-1,200,OK,newuser 1-411,text,true,,164236,122,291,291,https://www.rokomari.com/book,434,0,0
+1680193013536,19108,HTTP Request,200,OK,newuser 1-256,text,true,,165124,240,290,290,https://www.rokomari.com/book,2403,0,2255
+1680193013536,2403,HTTP Request-0,301,Moved Permanently,newuser 1-256,,true,,896,118,290,290,https://www.rokomari.com/,2403,0,2255
+1680193015940,16704,HTTP Request-1,200,OK,newuser 1-256,text,true,,164228,122,290,290,https://www.rokomari.com/book,474,0,0
+1680193014568,18123,HTTP Request,200,OK,newuser 1-421,text,true,,165129,240,289,289,https://www.rokomari.com/book,247,0,133
+1680193014568,247,HTTP Request-0,301,Moved Permanently,newuser 1-421,,true,,896,118,289,289,https://www.rokomari.com/,247,0,133
+1680193014815,17876,HTTP Request-1,200,OK,newuser 1-421,text,true,,164233,122,289,289,https://www.rokomari.com/book,112,0,0
+1680193014639,18123,HTTP Request,200,OK,newuser 1-460,text,true,,165133,240,288,288,https://www.rokomari.com/book,15804,0,3818
+1680193014639,15804,HTTP Request-0,301,Moved Permanently,newuser 1-460,,true,,900,118,288,288,https://www.rokomari.com/,15804,0,3818
+1680193030444,2318,HTTP Request-1,200,OK,newuser 1-460,text,true,,164233,122,288,288,https://www.rokomari.com/book,110,0,0
+1680193012506,20285,HTTP Request,200,OK,newuser 1-78,text,true,,165129,240,287,287,https://www.rokomari.com/book,11629,0,10725
+1680193012506,11629,HTTP Request-0,301,Moved Permanently,newuser 1-78,,true,,904,118,287,287,https://www.rokomari.com/,11629,0,10725
+1680193024134,8657,HTTP Request-1,200,OK,newuser 1-78,text,true,,164225,122,287,287,https://www.rokomari.com/book,1047,0,0
+1680193015020,17819,HTTP Request,200,OK,newuser 1-462,text,true,,165134,240,286,286,https://www.rokomari.com/book,17323,0,15967
+1680193015020,17323,HTTP Request-0,301,Moved Permanently,newuser 1-462,,true,,904,118,286,286,https://www.rokomari.com/,17323,0,15967
+1680193032344,495,HTTP Request-1,200,OK,newuser 1-462,text,true,,164230,122,286,286,https://www.rokomari.com/book,109,0,0
+1680193012925,19917,HTTP Request,200,OK,newuser 1-205,text,true,,165117,240,286,286,https://www.rokomari.com/book,17123,0,4713
+1680193012925,17123,HTTP Request-0,301,Moved Permanently,newuser 1-205,,true,,896,118,286,286,https://www.rokomari.com/,17123,0,4713
+1680193030049,2793,HTTP Request-1,200,OK,newuser 1-205,text,true,,164221,122,286,286,https://www.rokomari.com/book,126,0,0
+1680193012628,20263,HTTP Request,200,OK,newuser 1-127,text,true,,165120,240,284,284,https://www.rokomari.com/book,3551,0,2959
+1680193012628,3551,HTTP Request-0,301,Moved Permanently,newuser 1-127,,true,,900,118,284,284,https://www.rokomari.com/,3551,0,2959
+1680193016179,16712,HTTP Request-1,200,OK,newuser 1-127,text,true,,164220,122,284,284,https://www.rokomari.com/book,1838,0,0
+1680193013723,19251,HTTP Request,200,OK,newuser 1-330,text,true,,165135,240,283,283,https://www.rokomari.com/book,2770,0,2416
+1680193013723,2770,HTTP Request-0,301,Moved Permanently,newuser 1-330,,true,,902,118,283,283,https://www.rokomari.com/,2770,0,2416
+1680193016495,16479,HTTP Request-1,200,OK,newuser 1-330,text,true,,164233,122,283,283,https://www.rokomari.com/book,1832,0,0
+1680193012952,20142,HTTP Request,200,OK,newuser 1-215,text,true,,165135,240,282,282,https://www.rokomari.com/book,3531,0,923
+1680193012952,3531,HTTP Request-0,301,Moved Permanently,newuser 1-215,,true,,904,118,282,282,https://www.rokomari.com/,3531,0,923
+1680193016484,16610,HTTP Request-1,200,OK,newuser 1-215,text,true,,164231,122,282,282,https://www.rokomari.com/book,124,0,0
+1680193012685,20428,HTTP Request,200,OK,newuser 1-137,text,true,,165125,240,281,281,https://www.rokomari.com/book,7307,0,3681
+1680193012685,7307,HTTP Request-0,301,Moved Permanently,newuser 1-137,,true,,900,118,281,281,https://www.rokomari.com/,7307,0,3681
+1680193019992,13121,HTTP Request-1,200,OK,newuser 1-137,text,true,,164225,122,281,281,https://www.rokomari.com/book,104,0,0
+1680193012431,20756,HTTP Request,200,OK,newuser 1-6,text,true,,165125,240,280,280,https://www.rokomari.com/book,3918,0,3532
+1680193012431,3918,HTTP Request-0,301,Moved Permanently,newuser 1-6,,true,,904,118,280,280,https://www.rokomari.com/,3918,0,3532
+1680193016349,16838,HTTP Request-1,200,OK,newuser 1-6,text,true,,164221,122,280,280,https://www.rokomari.com/book,114,0,0
+1680193014667,18561,HTTP Request,200,OK,newuser 1-493,text,true,,165127,240,279,279,https://www.rokomari.com/book,630,0,509
+1680193014667,630,HTTP Request-0,301,Moved Permanently,newuser 1-493,,true,,902,118,279,279,https://www.rokomari.com/,630,0,509
+1680193015297,17931,HTTP Request-1,200,OK,newuser 1-493,text,true,,164225,122,279,279,https://www.rokomari.com/book,170,0,0
+1680193013651,19629,HTTP Request,200,OK,newuser 1-321,text,true,,165123,240,278,278,https://www.rokomari.com/book,580,0,495
+1680193013651,580,HTTP Request-0,301,Moved Permanently,newuser 1-321,,true,,898,118,278,278,https://www.rokomari.com/,580,0,495
+1680193014232,19048,HTTP Request-1,200,OK,newuser 1-321,text,true,,164225,122,278,278,https://www.rokomari.com/book,392,0,0
+1680193014652,18685,HTTP Request,200,OK,newuser 1-476,text,true,,165131,240,277,277,https://www.rokomari.com/book,606,0,507
+1680193012469,20869,HTTP Request,200,OK,newuser 1-7,text,true,,165144,240,277,277,https://www.rokomari.com/book,9064,0,7800
+1680193012469,9065,HTTP Request-0,301,Moved Permanently,newuser 1-7,,true,,906,118,277,277,https://www.rokomari.com/,9064,0,7800
+1680193021534,11804,HTTP Request-1,200,OK,newuser 1-7,text,true,,164238,122,277,277,https://www.rokomari.com/book,115,0,0
+1680193014652,606,HTTP Request-0,301,Moved Permanently,newuser 1-476,,true,,894,118,277,277,https://www.rokomari.com/,606,0,507
+1680193015258,18079,HTTP Request-1,200,OK,newuser 1-476,text,true,,164237,122,277,277,https://www.rokomari.com/book,160,0,0
+1680193012474,20864,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-46,text,false,,2098,0,276,276,https://www.rokomari.com/,0,0,20863
+1680193012430,20944,HTTP Request,200,OK,newuser 1-23,text,true,,165121,240,274,274,https://www.rokomari.com/book,4053,0,3936
+1680193012430,4053,HTTP Request-0,301,Moved Permanently,newuser 1-23,,true,,898,118,274,274,https://www.rokomari.com/,4053,0,3936
+1680193016483,16891,HTTP Request-1,200,OK,newuser 1-23,text,true,,164223,122,274,274,https://www.rokomari.com/book,407,0,0
+1680193012905,20474,HTTP Request,200,OK,newuser 1-193,text,true,,165134,240,273,273,https://www.rokomari.com/book,2455,0,578
+1680193012905,2455,HTTP Request-0,301,Moved Permanently,newuser 1-193,,true,,906,118,273,273,https://www.rokomari.com/,2455,0,578
+1680193015360,18019,HTTP Request-1,200,OK,newuser 1-193,text,true,,164228,122,273,273,https://www.rokomari.com/book,405,0,0
+1680193012559,20880,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-104,text,false,,2098,0,272,272,https://www.rokomari.com/,0,0,20879
+1680193012426,21015,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-33,text,false,,2098,0,271,271,https://www.rokomari.com/,0,0,21014
+1680193012523,20920,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-93,text,false,,2098,0,270,270,https://www.rokomari.com/,0,0,20918
+1680193012636,20870,HTTP Request,200,OK,newuser 1-136,text,true,,165132,240,269,269,https://www.rokomari.com/book,3802,0,3437
+1680193012636,3802,HTTP Request-0,301,Moved Permanently,newuser 1-136,,true,,900,118,269,269,https://www.rokomari.com/,3802,0,3437
+1680193016438,17068,HTTP Request-1,200,OK,newuser 1-136,text,true,,164232,122,269,269,https://www.rokomari.com/book,181,0,0
+1680193012445,21110,HTTP Request,200,OK,newuser 1-62,text,true,,165135,240,268,268,https://www.rokomari.com/book,3653,0,3541
+1680193012445,3653,HTTP Request-0,301,Moved Permanently,newuser 1-62,,true,,898,118,268,268,https://www.rokomari.com/,3653,0,3541
+1680193016098,17457,HTTP Request-1,200,OK,newuser 1-62,text,true,,164237,122,268,268,https://www.rokomari.com/book,465,0,0
+1680193014565,19043,HTTP Request,200,OK,newuser 1-416,text,true,,165125,240,267,267,https://www.rokomari.com/book,235,0,132
+1680193014565,235,HTTP Request-0,301,Moved Permanently,newuser 1-416,,true,,900,118,267,267,https://www.rokomari.com/,235,0,132
+1680193014800,18808,HTTP Request-1,200,OK,newuser 1-416,text,true,,164225,122,267,267,https://www.rokomari.com/book,108,0,0
+1680193014956,18690,HTTP Request,200,OK,newuser 1-445,text,true,,165127,240,266,266,https://www.rokomari.com/book,17069,0,1147
+1680193014956,17069,HTTP Request-0,301,Moved Permanently,newuser 1-445,,true,,906,118,266,266,https://www.rokomari.com/,17069,0,1147
+1680193032026,1620,HTTP Request-1,200,OK,newuser 1-445,text,true,,164221,122,266,266,https://www.rokomari.com/book,163,0,0
+1680193013031,20638,HTTP Request,200,OK,newuser 1-233,text,true,,165123,240,265,265,https://www.rokomari.com/book,16932,0,9437
+1680193013031,16932,HTTP Request-0,301,Moved Permanently,newuser 1-233,,true,,896,118,265,265,https://www.rokomari.com/,16932,0,9437
+1680193029964,3705,HTTP Request-1,200,OK,newuser 1-233,text,true,,164227,122,265,265,https://www.rokomari.com/book,104,0,0
+1680193012430,21341,HTTP Request,200,OK,newuser 1-21,text,true,,165124,240,264,264,https://www.rokomari.com/book,4059,0,1337
+1680193012430,4059,HTTP Request-0,301,Moved Permanently,newuser 1-21,,true,,898,118,264,264,https://www.rokomari.com/,4059,0,1337
+1680193016489,17282,HTTP Request-1,200,OK,newuser 1-21,text,true,,164226,122,264,264,https://www.rokomari.com/book,402,0,0
+1680193013670,20134,HTTP Request,200,OK,newuser 1-350,text,true,,165127,240,263,263,https://www.rokomari.com/book,1587,0,1205
+1680193013670,1587,HTTP Request-0,301,Moved Permanently,newuser 1-350,,true,,898,118,263,263,https://www.rokomari.com/,1587,0,1205
+1680193015257,18547,HTTP Request-1,200,OK,newuser 1-350,text,true,,164229,122,263,263,https://www.rokomari.com/book,405,0,0
+1680193012877,20967,HTTP Request,200,OK,newuser 1-186,text,true,,165124,240,262,262,https://www.rokomari.com/book,3920,0,3823
+1680193012877,3920,HTTP Request-0,301,Moved Permanently,newuser 1-186,,true,,902,118,262,262,https://www.rokomari.com/,3920,0,3823
+1680193016797,17047,HTTP Request-1,200,OK,newuser 1-186,text,true,,164222,122,262,262,https://www.rokomari.com/book,115,0,0
+1680193013566,20330,HTTP Request,200,OK,newuser 1-267,text,true,,165140,240,261,261,https://www.rokomari.com/book,2457,0,2036
+1680193013566,2457,HTTP Request-0,301,Moved Permanently,newuser 1-267,,true,,900,118,261,261,https://www.rokomari.com/,2457,0,2036
+1680193016023,17873,HTTP Request-1,200,OK,newuser 1-267,text,true,,164240,122,261,261,https://www.rokomari.com/book,472,0,0
+1680193014604,19303,HTTP Request,200,OK,newuser 1-448,text,true,,165125,240,260,260,https://www.rokomari.com/book,17752,0,634
+1680193014604,17752,HTTP Request-0,301,Moved Permanently,newuser 1-448,,true,,902,118,260,260,https://www.rokomari.com/,17752,0,634
+1680193032357,1550,HTTP Request-1,200,OK,newuser 1-448,text,true,,164223,122,260,260,https://www.rokomari.com/book,451,0,0
+1680193014426,19480,HTTP Request,200,OK,newuser 1-403,text,true,,165124,240,259,259,https://www.rokomari.com/book,10263,0,6096
+1680193014426,10263,HTTP Request-0,301,Moved Permanently,newuser 1-403,,true,,900,118,259,259,https://www.rokomari.com/,10263,0,6096
+1680193024688,9218,HTTP Request-1,200,OK,newuser 1-403,text,true,,164224,122,259,259,https://www.rokomari.com/book,613,0,0
+1680193014096,19845,HTTP Request,200,OK,newuser 1-360,text,true,,165116,240,258,258,https://www.rokomari.com/book,2022,0,533
+1680193014096,2022,HTTP Request-0,301,Moved Permanently,newuser 1-360,,true,,900,118,258,258,https://www.rokomari.com/,2022,0,533
+1680193016119,17822,HTTP Request-1,200,OK,newuser 1-360,text,true,,164216,122,258,258,https://www.rokomari.com/book,7923,0,0
+1680193013540,20435,HTTP Request,200,OK,newuser 1-260,text,true,,165116,240,257,257,https://www.rokomari.com/book,2916,0,468
+1680193013540,2916,HTTP Request-0,301,Moved Permanently,newuser 1-260,,true,,896,118,257,257,https://www.rokomari.com/,2916,0,468
+1680193016456,17519,HTTP Request-1,200,OK,newuser 1-260,text,true,,164220,122,257,257,https://www.rokomari.com/book,163,0,0
+1680193012494,21482,HTTP Request,200,OK,newuser 1-72,text,true,,165127,240,257,257,https://www.rokomari.com/book,5374,0,5271
+1680193012494,5374,HTTP Request-0,301,Moved Permanently,newuser 1-72,,true,,898,118,257,257,https://www.rokomari.com/,5374,0,5271
+1680193017868,16108,HTTP Request-1,200,OK,newuser 1-72,text,true,,164229,122,257,257,https://www.rokomari.com/book,112,0,0
+1680193012850,21144,HTTP Request,200,OK,newuser 1-174,text,true,,165125,240,255,255,https://www.rokomari.com/book,5140,0,4789
+1680193012850,5140,HTTP Request-0,301,Moved Permanently,newuser 1-174,,true,,898,118,255,255,https://www.rokomari.com/,5140,0,4789
+1680193017990,16004,HTTP Request-1,200,OK,newuser 1-174,text,true,,164227,122,255,255,https://www.rokomari.com/book,151,0,0
+1680193014750,19380,HTTP Request,200,OK,newuser 1-495,text,true,,165133,240,254,254,https://www.rokomari.com/book,840,0,452
+1680193014750,840,HTTP Request-0,301,Moved Permanently,newuser 1-495,,true,,904,118,254,254,https://www.rokomari.com/,840,0,452
+1680193015590,18540,HTTP Request-1,200,OK,newuser 1-495,text,true,,164229,122,254,254,https://www.rokomari.com/book,109,0,0
+1680193012904,21296,HTTP Request,200,OK,newuser 1-192,text,true,,165118,240,253,253,https://www.rokomari.com/book,4732,0,4381
+1680193012904,4732,HTTP Request-0,301,Moved Permanently,newuser 1-192,,true,,898,118,253,253,https://www.rokomari.com/,4732,0,4381
+1680193017636,16564,HTTP Request-1,200,OK,newuser 1-192,text,true,,164220,122,253,253,https://www.rokomari.com/book,102,0,0
+1680193012507,21700,HTTP Request,200,OK,newuser 1-31,text,true,,165142,240,252,252,https://www.rokomari.com/book,21124,0,3672
+1680193012507,21124,HTTP Request-0,301,Moved Permanently,newuser 1-31,,true,,900,118,252,252,https://www.rokomari.com/,21124,0,3672
+1680193033630,577,HTTP Request-1,200,OK,newuser 1-31,text,true,,164242,122,252,252,https://www.rokomari.com/book,127,0,0
+1680193014646,19576,HTTP Request,200,OK,newuser 1-471,text,true,,165131,240,251,251,https://www.rokomari.com/book,393,0,266
+1680193014646,393,HTTP Request-0,301,Moved Permanently,newuser 1-471,,true,,902,118,251,251,https://www.rokomari.com/,393,0,266
+1680193015040,19182,HTTP Request-1,200,OK,newuser 1-471,text,true,,164229,122,251,251,https://www.rokomari.com/book,120,0,0
+1680193013672,20562,HTTP Request,200,OK,newuser 1-351,text,true,,165119,240,250,250,https://www.rokomari.com/book,2468,0,1053
+1680193013672,2468,HTTP Request-0,301,Moved Permanently,newuser 1-351,,true,,898,118,250,250,https://www.rokomari.com/,2468,0,1053
+1680193016141,18093,HTTP Request-1,200,OK,newuser 1-351,text,true,,164221,122,250,250,https://www.rokomari.com/book,162,0,0
+1680193014577,19722,HTTP Request,200,OK,newuser 1-427,text,true,,165118,240,249,249,https://www.rokomari.com/book,16257,0,8075
+1680193014577,16257,HTTP Request-0,301,Moved Permanently,newuser 1-427,,true,,894,118,249,249,https://www.rokomari.com/,16257,0,8075
+1680193030836,3463,HTTP Request-1,200,OK,newuser 1-427,text,true,,164224,122,249,249,https://www.rokomari.com/book,160,0,0
+1680193013642,20792,HTTP Request,200,OK,newuser 1-282,text,true,,165133,240,248,248,https://www.rokomari.com/book,2530,0,914
+1680193013642,2530,HTTP Request-0,301,Moved Permanently,newuser 1-282,,true,,898,118,248,248,https://www.rokomari.com/,2530,0,914
+1680193016172,18262,HTTP Request-1,200,OK,newuser 1-282,text,true,,164235,122,248,248,https://www.rokomari.com/book,404,0,0
+1680193012867,21584,HTTP Request,200,OK,newuser 1-182,text,true,,165131,240,247,247,https://www.rokomari.com/book,6799,0,3329
+1680193012867,6799,HTTP Request-0,301,Moved Permanently,newuser 1-182,,true,,902,118,247,247,https://www.rokomari.com/,6799,0,3329
+1680193019666,14785,HTTP Request-1,200,OK,newuser 1-182,text,true,,164229,122,247,247,https://www.rokomari.com/book,105,0,0
+1680193013674,20836,HTTP Request,200,OK,newuser 1-355,text,true,,165129,240,246,246,https://www.rokomari.com/book,1050,0,903
+1680193013674,1050,HTTP Request-0,301,Moved Permanently,newuser 1-355,,true,,904,118,246,246,https://www.rokomari.com/,1050,0,903
+1680193014724,19786,HTTP Request-1,200,OK,newuser 1-355,text,true,,164225,122,246,246,https://www.rokomari.com/book,120,0,0
+1680193012933,21620,HTTP Request,200,OK,newuser 1-208,text,true,,165120,240,245,245,https://www.rokomari.com/book,3150,0,3042
+1680193012933,3150,HTTP Request-0,301,Moved Permanently,newuser 1-208,,true,,896,118,245,245,https://www.rokomari.com/,3150,0,3042
+1680193016083,18470,HTTP Request-1,200,OK,newuser 1-208,text,true,,164224,122,245,245,https://www.rokomari.com/book,393,0,0
+1680193014104,20453,HTTP Request,200,OK,newuser 1-386,text,true,,165127,240,244,244,https://www.rokomari.com/book,4429,0,2671
+1680193014104,4429,HTTP Request-0,301,Moved Permanently,newuser 1-386,,true,,900,118,244,244,https://www.rokomari.com/,4429,0,2671
+1680193018533,16024,HTTP Request-1,200,OK,newuser 1-386,text,true,,164227,122,244,244,https://www.rokomari.com/book,169,0,0
+1680193012435,22134,HTTP Request,200,OK,newuser 1-8,text,true,,165128,240,243,243,https://www.rokomari.com/book,21510,0,4019
+1680193012435,21510,HTTP Request-0,301,Moved Permanently,newuser 1-8,,true,,900,118,243,243,https://www.rokomari.com/,21510,0,4019
+1680193033944,625,HTTP Request-1,200,OK,newuser 1-8,text,true,,164228,122,243,243,https://www.rokomari.com/book,146,0,0
+1680193014846,19730,HTTP Request,200,OK,newuser 1-414,text,true,,165125,240,242,242,https://www.rokomari.com/book,19168,0,2403
+1680193014846,19168,HTTP Request-0,301,Moved Permanently,newuser 1-414,,true,,902,118,242,242,https://www.rokomari.com/,19168,0,2403
+1680193034013,563,HTTP Request-1,200,OK,newuser 1-414,text,true,,164223,122,242,242,https://www.rokomari.com/book,215,0,0
+1680193012887,21925,HTTP Request,200,OK,newuser 1-190,text,true,,165125,240,241,241,https://www.rokomari.com/book,1474,0,445
+1680193012887,1474,HTTP Request-0,301,Moved Permanently,newuser 1-190,,true,,896,118,241,241,https://www.rokomari.com/,1474,0,445
+1680193014361,20451,HTTP Request-1,200,OK,newuser 1-190,text,true,,164229,122,241,241,https://www.rokomari.com/book,104,0,0
+1680193012474,22338,HTTP Request,200,OK,newuser 1-47,text,true,,165119,240,241,241,https://www.rokomari.com/book,21158,0,3965
+1680193012474,21158,HTTP Request-0,301,Moved Permanently,newuser 1-47,,true,,898,118,241,241,https://www.rokomari.com/,21158,0,3965
+1680193033631,1181,HTTP Request-1,200,OK,newuser 1-47,text,true,,164221,122,241,241,https://www.rokomari.com/book,162,0,0
+1680193014598,20217,HTTP Request,200,OK,newuser 1-440,text,true,,165133,240,239,239,https://www.rokomari.com/book,1524,0,443
+1680193014598,1524,HTTP Request-0,301,Moved Permanently,newuser 1-440,,true,,902,118,239,239,https://www.rokomari.com/,1524,0,443
+1680193016124,18691,HTTP Request-1,200,OK,newuser 1-440,text,true,,164231,122,239,239,https://www.rokomari.com/book,167,0,0
+1680193012996,21844,HTTP Request,200,OK,newuser 1-220,text,true,,165120,240,238,238,https://www.rokomari.com/book,2693,0,2587
+1680193012996,2693,HTTP Request-0,301,Moved Permanently,newuser 1-220,,true,,896,118,238,238,https://www.rokomari.com/,2693,0,2587
+1680193015689,19151,HTTP Request-1,200,OK,newuser 1-220,text,true,,164224,122,238,238,https://www.rokomari.com/book,155,0,0
+1680193012510,22386,HTTP Request,200,OK,newuser 1-83,text,true,,165129,240,237,237,https://www.rokomari.com/book,20967,0,7544
+1680193012510,20967,HTTP Request-0,301,Moved Permanently,newuser 1-83,,true,,902,118,237,237,https://www.rokomari.com/,20967,0,7544
+1680193033476,1420,HTTP Request-1,200,OK,newuser 1-83,text,true,,164227,122,237,237,https://www.rokomari.com/book,102,0,0
+1680193013674,21251,HTTP Request,200,OK,newuser 1-341,text,true,,165135,240,236,236,https://www.rokomari.com/book,1047,0,711
+1680193013674,1047,HTTP Request-0,301,Moved Permanently,newuser 1-341,,true,,900,118,236,236,https://www.rokomari.com/,1047,0,711
+1680193014721,20204,HTTP Request-1,200,OK,newuser 1-341,text,true,,164235,122,236,236,https://www.rokomari.com/book,115,0,0
+1680193012462,22549,HTTP Request,200,OK,newuser 1-25,text,true,,165125,240,235,235,https://www.rokomari.com/book,21435,0,5576
+1680193012462,21435,HTTP Request-0,301,Moved Permanently,newuser 1-25,,true,,902,118,235,235,https://www.rokomari.com/,21435,0,5576
+1680193033896,1115,HTTP Request-1,200,OK,newuser 1-25,text,true,,164223,122,235,235,https://www.rokomari.com/book,591,0,0
+1680193012910,22121,HTTP Request,200,OK,newuser 1-196,text,true,,165128,240,234,234,https://www.rokomari.com/book,2472,0,509
+1680193012910,2472,HTTP Request-0,301,Moved Permanently,newuser 1-196,,true,,900,118,234,234,https://www.rokomari.com/,2472,0,509
+1680193015383,19648,HTTP Request-1,200,OK,newuser 1-196,text,true,,164228,122,234,234,https://www.rokomari.com/book,1790,0,0
+1680193012719,22416,HTTP Request,200,OK,newuser 1-158,text,true,,165129,240,233,233,https://www.rokomari.com/book,1494,0,1068
+1680193012719,1494,HTTP Request-0,301,Moved Permanently,newuser 1-158,,true,,904,118,233,233,https://www.rokomari.com/,1494,0,1068
+1680193014213,20922,HTTP Request-1,200,OK,newuser 1-158,text,true,,164225,122,233,233,https://www.rokomari.com/book,91,0,0
+1680193012707,22479,HTTP Request,200,OK,newuser 1-152,text,true,,165131,240,232,232,https://www.rokomari.com/book,17941,0,3900
+1680193012707,17941,HTTP Request-0,301,Moved Permanently,newuser 1-152,,true,,896,118,232,232,https://www.rokomari.com/,17941,0,3900
+1680193030649,4537,HTTP Request-1,200,OK,newuser 1-152,text,true,,164235,122,232,232,https://www.rokomari.com/book,146,0,0
+1680193014955,20249,HTTP Request,200,OK,newuser 1-463,text,true,,165143,240,231,231,https://www.rokomari.com/book,1559,0,958
+1680193014955,1559,HTTP Request-0,301,Moved Permanently,newuser 1-463,,true,,900,118,231,231,https://www.rokomari.com/,1559,0,958
+1680193016514,18690,HTTP Request-1,200,OK,newuser 1-463,text,true,,164243,122,231,231,https://www.rokomari.com/book,201,0,0
+1680193014013,21192,HTTP Request,200,OK,newuser 1-272,text,true,,165125,240,231,231,https://www.rokomari.com/book,2382,0,58
+1680193014013,2382,HTTP Request-0,301,Moved Permanently,newuser 1-272,,true,,902,118,231,231,https://www.rokomari.com/,2382,0,58
+1680193016395,18810,HTTP Request-1,200,OK,newuser 1-272,text,true,,164223,122,231,231,https://www.rokomari.com/book,908,0,0
+1680193012927,22304,HTTP Request,200,OK,newuser 1-206,text,true,,165122,240,229,229,https://www.rokomari.com/book,4943,0,4838
+1680193012927,4943,HTTP Request-0,301,Moved Permanently,newuser 1-206,,true,,900,118,229,229,https://www.rokomari.com/,4943,0,4838
+1680193017870,17361,HTTP Request-1,200,OK,newuser 1-206,text,true,,164222,122,229,229,https://www.rokomari.com/book,120,0,0
+1680193013711,21531,HTTP Request,200,OK,newuser 1-387,text,true,,165124,240,228,228,https://www.rokomari.com/book,2887,0,2521
+1680193013711,2887,HTTP Request-0,301,Moved Permanently,newuser 1-387,,true,,898,118,228,228,https://www.rokomari.com/,2887,0,2521
+1680193016598,18644,HTTP Request-1,200,OK,newuser 1-387,text,true,,164226,122,228,228,https://www.rokomari.com/book,157,0,0
+1680193013717,21556,HTTP Request,200,OK,newuser 1-379,text,true,,165119,240,227,227,https://www.rokomari.com/book,6272,0,4128
+1680193013717,6272,HTTP Request-0,301,Moved Permanently,newuser 1-379,,true,,898,118,227,227,https://www.rokomari.com/,6272,0,4128
+1680193019989,15284,HTTP Request-1,200,OK,newuser 1-379,text,true,,164221,122,227,227,https://www.rokomari.com/book,157,0,0
+1680193012437,22869,HTTP Request,200,OK,newuser 1-14,text,true,,165137,240,226,226,https://www.rokomari.com/book,5730,0,3939
+1680193012437,5730,HTTP Request-0,301,Moved Permanently,newuser 1-14,,true,,896,118,226,226,https://www.rokomari.com/,5730,0,3939
+1680193018168,17138,HTTP Request-1,200,OK,newuser 1-14,text,true,,164241,122,226,226,https://www.rokomari.com/book,411,0,0
+1680193014567,20798,HTTP Request,200,OK,newuser 1-419,text,true,,165127,240,225,225,https://www.rokomari.com/book,1080,0,954
+1680193014567,1080,HTTP Request-0,301,Moved Permanently,newuser 1-419,,true,,896,118,225,225,https://www.rokomari.com/,1080,0,954
+1680193015648,19717,HTTP Request-1,200,OK,newuser 1-419,text,true,,164231,122,225,225,https://www.rokomari.com/book,3892,0,0
+1680193013591,21780,HTTP Request,200,OK,newuser 1-275,text,true,,165135,240,224,224,https://www.rokomari.com/book,3279,0,3172
+1680193013591,3279,HTTP Request-0,301,Moved Permanently,newuser 1-275,,true,,904,118,224,224,https://www.rokomari.com/,3279,0,3172
+1680193016870,18501,HTTP Request-1,200,OK,newuser 1-275,text,true,,164231,122,224,224,https://www.rokomari.com/book,453,0,0
+1680193013579,22112,HTTP Request,200,OK,newuser 1-269,text,true,,165116,240,223,223,https://www.rokomari.com/book,1841,0,1734
+1680193013579,1841,HTTP Request-0,301,Moved Permanently,newuser 1-269,,true,,896,118,223,223,https://www.rokomari.com/,1841,0,1734
+1680193015420,20271,HTTP Request-1,200,OK,newuser 1-269,text,true,,164220,122,223,223,https://www.rokomari.com/book,125,0,0
+1680193012889,22868,HTTP Request,200,OK,newuser 1-191,text,true,,165124,240,222,222,https://www.rokomari.com/book,18055,0,10214
+1680193012889,18055,HTTP Request-0,301,Moved Permanently,newuser 1-191,,true,,896,118,222,222,https://www.rokomari.com/,18055,0,10214
+1680193030945,4812,HTTP Request-1,200,OK,newuser 1-191,text,true,,164228,122,222,222,https://www.rokomari.com/book,104,0,0
+1680193012669,23088,HTTP Request,200,OK,newuser 1-139,text,true,,165123,240,222,222,https://www.rokomari.com/book,3821,0,1196
+1680193012669,3821,HTTP Request-0,301,Moved Permanently,newuser 1-139,,true,,900,118,222,222,https://www.rokomari.com/,3821,0,1196
+1680193016490,19267,HTTP Request-1,200,OK,newuser 1-139,text,true,,164223,122,222,222,https://www.rokomari.com/book,475,0,0
+1680193014787,21021,HTTP Request,200,OK,newuser 1-457,text,true,,165124,240,220,220,https://www.rokomari.com/book,1981,0,1877
+1680193014787,1981,HTTP Request-0,301,Moved Permanently,newuser 1-457,,true,,898,118,220,220,https://www.rokomari.com/,1981,0,1877
+1680193016768,19040,HTTP Request-1,200,OK,newuser 1-457,text,true,,164226,122,220,220,https://www.rokomari.com/book,118,0,0
+1680193013680,22155,HTTP Request,200,OK,newuser 1-363,text,true,,165127,240,219,219,https://www.rokomari.com/book,297,0,209
+1680193013680,529,HTTP Request-0,301,Moved Permanently,newuser 1-363,,true,,898,118,219,219,https://www.rokomari.com/,297,0,209
+1680193014209,21626,HTTP Request-1,200,OK,newuser 1-363,text,true,,164229,122,219,219,https://www.rokomari.com/book,182,0,0
+1680193014656,21313,HTTP Request,200,OK,newuser 1-479,text,true,,165119,240,218,218,https://www.rokomari.com/book,1079,0,974
+1680193014656,1079,HTTP Request-0,301,Moved Permanently,newuser 1-479,,true,,894,118,218,218,https://www.rokomari.com/,1079,0,974
+1680193015735,20234,HTTP Request-1,200,OK,newuser 1-479,text,true,,164225,122,218,218,https://www.rokomari.com/book,155,0,0
+1680193013676,22314,HTTP Request,200,OK,newuser 1-367,text,true,,165125,240,217,217,https://www.rokomari.com/book,4559,0,4459
+1680193013676,4559,HTTP Request-0,301,Moved Permanently,newuser 1-367,,true,,898,118,217,217,https://www.rokomari.com/,4559,0,4459
+1680193018235,17755,HTTP Request-1,200,OK,newuser 1-367,text,true,,164227,122,217,217,https://www.rokomari.com/book,181,0,0
+1680193014581,21513,HTTP Request,200,OK,newuser 1-430,text,true,,165131,240,216,216,https://www.rokomari.com/book,739,0,372
+1680193014581,739,HTTP Request-0,301,Moved Permanently,newuser 1-430,,true,,896,118,216,216,https://www.rokomari.com/,739,0,372
+1680193015321,20773,HTTP Request-1,200,OK,newuser 1-430,text,true,,164235,122,216,216,https://www.rokomari.com/book,115,0,0
+1680193012939,23179,HTTP Request,200,OK,newuser 1-209,text,true,,165135,240,215,215,https://www.rokomari.com/book,2960,0,444
+1680193012939,2960,HTTP Request-0,301,Moved Permanently,newuser 1-209,,true,,904,118,215,215,https://www.rokomari.com/,2960,0,444
+1680193015899,20219,HTTP Request-1,200,OK,newuser 1-209,text,true,,164231,122,215,215,https://www.rokomari.com/book,118,0,0
+1680193012862,23276,HTTP Request,200,OK,newuser 1-180,text,true,,165127,240,214,214,https://www.rokomari.com/book,3430,0,3321
+1680193012862,3430,HTTP Request-0,301,Moved Permanently,newuser 1-180,,true,,902,118,214,214,https://www.rokomari.com/,3430,0,3321
+1680193016293,19845,HTTP Request-1,200,OK,newuser 1-180,text,true,,164225,122,214,214,https://www.rokomari.com/book,393,0,0
+1680193012434,23705,HTTP Request,200,OK,newuser 1-5,text,true,,165123,240,214,214,https://www.rokomari.com/book,4926,0,4491
+1680193012434,4926,HTTP Request-0,301,Moved Permanently,newuser 1-5,,true,,898,118,214,214,https://www.rokomari.com/,4926,0,4491
+1680193017361,18778,HTTP Request-1,200,OK,newuser 1-5,text,true,,164225,122,214,214,https://www.rokomari.com/book,145,0,0
+1680193014023,22119,HTTP Request,200,OK,newuser 1-377,text,true,,165137,240,212,212,https://www.rokomari.com/book,2365,0,60
+1680193014023,2365,HTTP Request-0,301,Moved Permanently,newuser 1-377,,true,,904,118,212,212,https://www.rokomari.com/,2365,0,60
+1680193016388,19754,HTTP Request-1,200,OK,newuser 1-377,text,true,,164233,122,212,212,https://www.rokomari.com/book,220,0,0
+1680193012999,23221,HTTP Request,200,OK,newuser 1-221,text,true,,165124,240,211,211,https://www.rokomari.com/book,3515,0,2913
+1680193012999,3515,HTTP Request-0,301,Moved Permanently,newuser 1-221,,true,,902,118,211,211,https://www.rokomari.com/,3515,0,2913
+1680193016514,19706,HTTP Request-1,200,OK,newuser 1-221,text,true,,164222,122,211,211,https://www.rokomari.com/book,114,0,0
+1680193014739,21506,HTTP Request,200,OK,newuser 1-499,text,true,,165129,240,210,210,https://www.rokomari.com/book,1400,0,540
+1680193014739,1400,HTTP Request-0,301,Moved Permanently,newuser 1-499,,true,,898,118,210,210,https://www.rokomari.com/,1400,0,540
+1680193016140,20105,HTTP Request-1,200,OK,newuser 1-499,text,true,,164231,122,210,210,https://www.rokomari.com/book,221,0,0
+1680193012705,23566,HTTP Request,200,OK,newuser 1-151,text,true,,165137,240,209,209,https://www.rokomari.com/book,7292,0,7107
+1680193012705,7292,HTTP Request-0,301,Moved Permanently,newuser 1-151,,true,,906,118,209,209,https://www.rokomari.com/,7292,0,7107
+1680193019997,16274,HTTP Request-1,200,OK,newuser 1-151,text,true,,164231,122,209,209,https://www.rokomari.com/book,917,0,0
+1680193012700,23721,HTTP Request,200,OK,newuser 1-148,text,true,,165129,240,208,208,https://www.rokomari.com/book,3303,0,3206
+1680193012700,3303,HTTP Request-0,301,Moved Permanently,newuser 1-148,,true,,898,118,208,208,https://www.rokomari.com/,3303,0,3206
+1680193016004,20417,HTTP Request-1,200,OK,newuser 1-148,text,true,,164231,122,208,208,https://www.rokomari.com/book,825,0,0
+1680193013588,22911,HTTP Request,200,OK,newuser 1-277,text,true,,165133,240,207,207,https://www.rokomari.com/book,5294,0,4945
+1680193013588,5294,HTTP Request-0,301,Moved Permanently,newuser 1-277,,true,,902,118,207,207,https://www.rokomari.com/,5294,0,4945
+1680193018883,17616,HTTP Request-1,200,OK,newuser 1-277,text,true,,164231,122,207,207,https://www.rokomari.com/book,121,0,0
+1680193014600,21913,HTTP Request,200,OK,newuser 1-432,text,true,,165117,240,206,206,https://www.rokomari.com/book,4486,0,4374
+1680193014600,4486,HTTP Request-0,301,Moved Permanently,newuser 1-432,,true,,898,118,206,206,https://www.rokomari.com/,4486,0,4374
+1680193019087,17426,HTTP Request-1,200,OK,newuser 1-432,text,true,,164219,122,206,206,https://www.rokomari.com/book,598,0,0
+1680193012468,24165,HTTP Request,200,OK,newuser 1-3,text,true,,165129,240,205,205,https://www.rokomari.com/book,3467,0,894
+1680193012468,3467,HTTP Request-0,301,Moved Permanently,newuser 1-3,,true,,900,118,205,205,https://www.rokomari.com/,3467,0,894
+1680193015935,20698,HTTP Request-1,200,OK,newuser 1-3,text,true,,164229,122,205,205,https://www.rokomari.com/book,7969,0,0
+1680193012674,24057,HTTP Request,200,OK,newuser 1-132,text,true,,165127,240,204,204,https://www.rokomari.com/book,3917,0,3806
+1680193012674,3917,HTTP Request-0,301,Moved Permanently,newuser 1-132,,true,,896,118,204,204,https://www.rokomari.com/,3917,0,3806
+1680193016591,20140,HTTP Request-1,200,OK,newuser 1-132,text,true,,164231,122,204,204,https://www.rokomari.com/book,187,0,0
+1680193012584,24158,HTTP Request,200,OK,newuser 1-117,text,true,,165117,240,203,203,https://www.rokomari.com/book,3941,0,3363
+1680193012584,3941,HTTP Request-0,301,Moved Permanently,newuser 1-117,,true,,894,118,203,203,https://www.rokomari.com/,3941,0,3363
+1680193016525,20217,HTTP Request-1,200,OK,newuser 1-117,text,true,,164223,122,203,203,https://www.rokomari.com/book,198,0,0
+1680193014104,22702,HTTP Request,200,OK,newuser 1-362,text,true,,165124,240,202,202,https://www.rokomari.com/book,3493,0,2703
+1680193014104,3493,HTTP Request-0,301,Moved Permanently,newuser 1-362,,true,,904,118,202,202,https://www.rokomari.com/,3493,0,2703
+1680193017597,19209,HTTP Request-1,200,OK,newuser 1-362,text,true,,164220,122,202,202,https://www.rokomari.com/book,173,0,0
+1680193014596,22496,HTTP Request,200,OK,newuser 1-436,text,true,,165132,240,201,201,https://www.rokomari.com/book,2772,0,1190
+1680193014596,2772,HTTP Request-0,301,Moved Permanently,newuser 1-436,,true,,904,118,201,201,https://www.rokomari.com/,2772,0,1190
+1680193017368,19724,HTTP Request-1,200,OK,newuser 1-436,text,true,,164228,122,201,201,https://www.rokomari.com/book,128,0,0
+1680193012922,24381,HTTP Request,200,OK,newuser 1-203,text,true,,165136,240,200,200,https://www.rokomari.com/book,3010,0,434
+1680193012922,3010,HTTP Request-0,301,Moved Permanently,newuser 1-203,,true,,912,118,200,200,https://www.rokomari.com/,3010,0,434
+1680193015932,21371,HTTP Request-1,200,OK,newuser 1-203,text,true,,164224,122,200,200,https://www.rokomari.com/book,15682,0,0
+1680193013645,23996,HTTP Request,200,OK,newuser 1-318,text,true,,165118,240,199,199,https://www.rokomari.com/book,746,0,589
+1680193013645,746,HTTP Request-0,301,Moved Permanently,newuser 1-318,,true,,898,118,199,199,https://www.rokomari.com/,746,0,589
+1680193014392,23249,HTTP Request-1,200,OK,newuser 1-318,text,true,,164220,122,199,199,https://www.rokomari.com/book,117,0,0
+1680193014571,23570,HTTP Request,200,OK,newuser 1-424,text,true,,165122,240,198,198,https://www.rokomari.com/book,3580,0,3458
+1680193014571,3580,HTTP Request-0,301,Moved Permanently,newuser 1-424,,true,,898,118,198,198,https://www.rokomari.com/,3580,0,3458
+1680193018151,19990,HTTP Request-1,200,OK,newuser 1-424,text,true,,164224,122,198,198,https://www.rokomari.com/book,104,0,0
+1680193014791,23810,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.rokomari.com:443 failed to respond,newuser 1-454,text,false,,2098,0,197,197,https://www.rokomari.com/,0,0,23810
+1680193013658,24990,HTTP Request,200,OK,newuser 1-335,text,true,,165127,240,196,196,https://www.rokomari.com/book,425,0,341
+1680193013658,777,HTTP Request-0,301,Moved Permanently,newuser 1-335,,true,,900,118,196,196,https://www.rokomari.com/,425,0,341
+1680193014435,24213,HTTP Request-1,200,OK,newuser 1-335,text,true,,164227,122,196,196,https://www.rokomari.com/book,108,0,0
+1680193014990,23765,HTTP Request,200,OK,newuser 1-439,text,true,,165133,240,195,195,https://www.rokomari.com/book,7899,0,7791
+1680193014990,7899,HTTP Request-0,301,Moved Permanently,newuser 1-439,,true,,902,118,195,195,https://www.rokomari.com/,7899,0,7791
+1680193022888,15867,HTTP Request-1,200,OK,newuser 1-439,text,true,,164231,122,195,195,https://www.rokomari.com/book,1015,0,0
+1680193014587,24393,HTTP Request,200,OK,newuser 1-433,text,true,,165121,240,194,194,https://www.rokomari.com/book,8584,0,8482
+1680193014587,8584,HTTP Request-0,301,Moved Permanently,newuser 1-433,,true,,902,118,194,194,https://www.rokomari.com/,8584,0,8482
+1680193023170,15810,HTTP Request-1,200,OK,newuser 1-433,text,true,,164219,122,194,194,https://www.rokomari.com/book,1887,0,0
+1680193012872,26306,HTTP Request,200,OK,newuser 1-184,text,true,,165130,240,193,193,https://www.rokomari.com/book,10076,0,9983
+1680193012872,10076,HTTP Request-0,301,Moved Permanently,newuser 1-184,,true,,900,118,193,193,https://www.rokomari.com/,10076,0,9983
+1680193022948,16230,HTTP Request-1,200,OK,newuser 1-184,text,true,,164230,122,193,193,https://www.rokomari.com/book,98,0,0
+1680193014109,25676,HTTP Request,200,OK,newuser 1-402,text,true,,165121,240,192,192,https://www.rokomari.com/book,950,0,614
+1680193014109,950,HTTP Request-0,301,Moved Permanently,newuser 1-402,,true,,894,118,192,192,https://www.rokomari.com/,950,0,614
+1680193015059,24726,HTTP Request-1,200,OK,newuser 1-402,text,true,,164227,122,192,192,https://www.rokomari.com/book,391,0,0
+1680193013058,26743,HTTP Request,200,OK,newuser 1-241,text,true,,165142,240,191,191,https://www.rokomari.com/book,10744,0,6606
+1680193013058,10744,HTTP Request-0,301,Moved Permanently,newuser 1-241,,true,,896,118,191,191,https://www.rokomari.com/,10744,0,6606
+1680193023802,15999,HTTP Request-1,200,OK,newuser 1-241,text,true,,164246,122,191,191,https://www.rokomari.com/book,149,0,0
+1680193012471,27554,HTTP Request,200,OK,newuser 1-43,text,true,,165133,240,190,190,https://www.rokomari.com/book,4237,0,4127
+1680193012471,4237,HTTP Request-0,301,Moved Permanently,newuser 1-43,,true,,900,118,190,190,https://www.rokomari.com/,4237,0,4127
+1680193016708,23317,HTTP Request-1,200,OK,newuser 1-43,text,true,,164233,122,190,190,https://www.rokomari.com/book,934,0,0
+1680193012521,28109,HTTP Request,200,OK,newuser 1-90,text,true,,165151,240,189,189,https://www.rokomari.com/book,8245,0,4533
+1680193012521,8245,HTTP Request-0,301,Moved Permanently,newuser 1-90,,true,,910,118,189,189,https://www.rokomari.com/,8245,0,4533
+1680193020767,19863,HTTP Request-1,200,OK,newuser 1-90,text,true,,164241,122,189,189,https://www.rokomari.com/book,105,0,0
+1680193013585,27847,HTTP Request,200,OK,newuser 1-278,text,true,,165129,240,188,188,https://www.rokomari.com/book,5154,0,5014
+1680193013585,5154,HTTP Request-0,301,Moved Permanently,newuser 1-278,,true,,898,118,188,188,https://www.rokomari.com/,5154,0,5014
+1680193018739,22693,HTTP Request-1,200,OK,newuser 1-278,text,true,,164231,122,188,188,https://www.rokomari.com/book,113,0,0
+1680193014027,27540,HTTP Request,200,OK,newuser 1-325,text,true,,165119,240,187,187,https://www.rokomari.com/book,2257,0,62
+1680193014027,2257,HTTP Request-0,301,Moved Permanently,newuser 1-325,,true,,896,118,187,187,https://www.rokomari.com/,2257,0,62
+1680193016285,25282,HTTP Request-1,200,OK,newuser 1-325,text,true,,164223,122,187,187,https://www.rokomari.com/book,1792,0,0
+1680193013561,29933,HTTP Request,200,OK,newuser 1-266,text,true,,165139,240,186,186,https://www.rokomari.com/book,29679,0,8721
+1680193013561,29679,HTTP Request-0,301,Moved Permanently,newuser 1-266,,true,,904,118,186,186,https://www.rokomari.com/,29679,0,8721
+1680193043241,253,HTTP Request-1,200,OK,newuser 1-266,text,true,,164235,122,186,186,https://www.rokomari.com/book,85,0,0
+1680193012856,30820,HTTP Request,200,OK,newuser 1-175,text,true,,165131,240,185,185,https://www.rokomari.com/book,30663,0,3050
+1680193012856,30663,HTTP Request-0,301,Moved Permanently,newuser 1-175,,true,,900,118,185,185,https://www.rokomari.com/,30663,0,3050
+1680193043521,155,HTTP Request-1,200,OK,newuser 1-175,text,true,,164231,122,185,185,https://www.rokomari.com/book,88,0,0
+1680193014206,29666,HTTP Request,200,OK,newuser 1-352,text,true,,165119,240,184,184,https://www.rokomari.com/book,407,0,53
+1680193014206,407,HTTP Request-0,301,Moved Permanently,newuser 1-352,,true,,898,118,184,184,https://www.rokomari.com/,407,0,53
+1680193014613,29259,HTTP Request-1,200,OK,newuser 1-352,text,true,,164221,122,184,184,https://www.rokomari.com/book,186,0,0
+1680193012869,31112,HTTP Request,200,OK,newuser 1-183,text,true,,165138,240,183,183,https://www.rokomari.com/book,30801,0,9818
+1680193012869,30801,HTTP Request-0,301,Moved Permanently,newuser 1-183,,true,,906,118,183,183,https://www.rokomari.com/,30801,0,9818
+1680193043671,310,HTTP Request-1,200,OK,newuser 1-183,text,true,,164232,122,183,183,https://www.rokomari.com/book,92,0,0
+1680193013596,30945,HTTP Request,200,OK,newuser 1-314,text,true,,165132,240,182,182,https://www.rokomari.com/book,30684,0,3180
+1680193013034,31507,HTTP Request,200,OK,newuser 1-235,text,true,,165128,240,182,182,https://www.rokomari.com/book,31245,0,3152
+1680193013596,30684,HTTP Request-0,301,Moved Permanently,newuser 1-314,,true,,900,118,182,182,https://www.rokomari.com/,30684,0,3180
+1680193044281,260,HTTP Request-1,200,OK,newuser 1-314,text,true,,164232,122,182,182,https://www.rokomari.com/book,132,0,0
+1680193013034,31245,HTTP Request-0,301,Moved Permanently,newuser 1-235,,true,,898,118,182,182,https://www.rokomari.com/,31245,0,3152
+1680193044280,261,HTTP Request-1,200,OK,newuser 1-235,text,true,,164230,122,182,182,https://www.rokomari.com/book,117,0,0
+1680193013622,31418,HTTP Request,200,OK,newuser 1-293,text,true,,165130,240,180,180,https://www.rokomari.com/book,31153,0,8428
+1680193013622,31153,HTTP Request-0,301,Moved Permanently,newuser 1-293,,true,,898,118,180,180,https://www.rokomari.com/,31153,0,8428
+1680193044776,264,HTTP Request-1,200,OK,newuser 1-293,text,true,,164232,122,180,180,https://www.rokomari.com/book,110,0,0
+1680193013667,31474,HTTP Request,200,OK,newuser 1-349,text,true,,165126,240,179,179,https://www.rokomari.com/book,344,0,242
+1680193013667,496,HTTP Request-0,301,Moved Permanently,newuser 1-349,,true,,898,118,179,179,https://www.rokomari.com/,344,0,242
+1680193014165,30976,HTTP Request-1,200,OK,newuser 1-349,text,true,,164228,122,179,179,https://www.rokomari.com/book,90,0,0
+1680193013659,31583,HTTP Request,200,OK,newuser 1-338,text,true,,165141,240,178,178,https://www.rokomari.com/book,362,0,273
+1680193013659,498,HTTP Request-0,301,Moved Permanently,newuser 1-338,,true,,904,118,178,178,https://www.rokomari.com/,362,0,273
+1680193014158,31084,HTTP Request-1,200,OK,newuser 1-338,text,true,,164237,122,178,178,https://www.rokomari.com/book,99,0,0
+1680193013049,32395,HTTP Request,200,OK,newuser 1-239,text,true,,165125,240,177,177,https://www.rokomari.com/book,2174,0,378
+1680193013049,2174,HTTP Request-0,301,Moved Permanently,newuser 1-239,,true,,898,118,177,177,https://www.rokomari.com/,2174,0,378
+1680193015223,30221,HTTP Request-1,200,OK,newuser 1-239,text,true,,164227,122,177,177,https://www.rokomari.com/book,29962,0,0
+1680193013717,31803,HTTP Request,200,OK,newuser 1-280,text,true,,165119,240,176,176,https://www.rokomari.com/book,1934,0,1816
+1680193013717,1934,HTTP Request-0,301,Moved Permanently,newuser 1-280,,true,,902,118,176,176,https://www.rokomari.com/,1934,0,1816
+1680193015651,29869,HTTP Request-1,200,OK,newuser 1-280,text,true,,164217,122,176,176,https://www.rokomari.com/book,859,0,0
+1680193013651,31895,HTTP Request,200,OK,newuser 1-319,text,true,,165125,240,175,175,https://www.rokomari.com/book,452,0,348
+1680193013651,805,HTTP Request-0,301,Moved Permanently,newuser 1-319,,true,,900,118,175,175,https://www.rokomari.com/,452,0,348
+1680193014457,31089,HTTP Request-1,200,OK,newuser 1-319,text,true,,164225,122,175,175,https://www.rokomari.com/book,119,0,0
+1680193013612,32082,HTTP Request,200,OK,newuser 1-303,text,true,,165131,240,174,174,https://www.rokomari.com/book,2517,0,2158
+1680193013612,2517,HTTP Request-0,301,Moved Permanently,newuser 1-303,,true,,900,118,174,174,https://www.rokomari.com/,2517,0,2158
+1680193016129,29565,HTTP Request-1,200,OK,newuser 1-303,text,true,,164231,122,174,174,https://www.rokomari.com/book,29450,0,0
+1680193013034,32812,HTTP Request,200,OK,newuser 1-234,text,true,,165122,240,173,173,https://www.rokomari.com/book,2361,0,379
+1680193013034,2361,HTTP Request-0,301,Moved Permanently,newuser 1-234,,true,,892,118,173,173,https://www.rokomari.com/,2361,0,379
+1680193015395,30451,HTTP Request-1,200,OK,newuser 1-234,text,true,,164230,122,173,173,https://www.rokomari.com/book,257,0,0
+1680193012672,33210,HTTP Request,200,OK,newuser 1-140,text,true,,165142,240,172,172,https://www.rokomari.com/book,32897,0,10393
+1680193012672,32897,HTTP Request-0,301,Moved Permanently,newuser 1-140,,true,,906,118,172,172,https://www.rokomari.com/,32897,0,10393
+1680193045570,312,HTTP Request-1,200,OK,newuser 1-140,text,true,,164236,122,172,172,https://www.rokomari.com/book,98,0,0
+1680193013621,32334,HTTP Request,200,OK,newuser 1-296,text,true,,165134,240,171,171,https://www.rokomari.com/book,2321,0,1285
+1680193013621,2321,HTTP Request-0,301,Moved Permanently,newuser 1-296,,true,,896,118,171,171,https://www.rokomari.com/,2321,0,1285
+1680193015947,30008,HTTP Request-1,200,OK,newuser 1-296,text,true,,164238,122,171,171,https://www.rokomari.com/book,848,0,0
+1680193013004,32952,HTTP Request,200,OK,newuser 1-227,text,true,,165123,240,171,171,https://www.rokomari.com/book,2951,0,2829
+1680193013004,2951,HTTP Request-0,301,Moved Permanently,newuser 1-227,,true,,902,118,171,171,https://www.rokomari.com/,2951,0,2829
+1680193015955,30001,HTTP Request-1,200,OK,newuser 1-227,text,true,,164221,122,171,171,https://www.rokomari.com/book,174,0,0
+1680193012855,33134,HTTP Request,200,OK,newuser 1-170,text,true,,165137,240,169,169,https://www.rokomari.com/book,3243,0,3122
+1680193012855,3243,HTTP Request-0,301,Moved Permanently,newuser 1-170,,true,,902,118,169,169,https://www.rokomari.com/,3243,0,3122
+1680193016098,29891,HTTP Request-1,200,OK,newuser 1-170,text,true,,164235,122,169,169,https://www.rokomari.com/book,106,0,0
+1680193013001,33027,HTTP Request,200,OK,newuser 1-225,text,true,,165129,240,168,168,https://www.rokomari.com/book,2948,0,2615
+1680193013001,2948,HTTP Request-0,301,Moved Permanently,newuser 1-225,,true,,904,118,168,168,https://www.rokomari.com/,2948,0,2615
+1680193015949,30079,HTTP Request-1,200,OK,newuser 1-225,text,true,,164225,122,168,168,https://www.rokomari.com/book,868,0,0
+1680193013664,32532,HTTP Request,200,OK,newuser 1-342,text,true,,165123,240,167,167,https://www.rokomari.com/book,345,0,263
+1680193013664,507,HTTP Request-0,301,Moved Permanently,newuser 1-342,,true,,902,118,167,167,https://www.rokomari.com/,345,0,263
+1680193014172,32024,HTTP Request-1,200,OK,newuser 1-342,text,true,,164221,122,167,167,https://www.rokomari.com/book,100,0,0
+1680193014580,31657,HTTP Request,200,OK,newuser 1-428,text,true,,165131,240,166,166,https://www.rokomari.com/book,31255,0,1919
+1680193014580,31255,HTTP Request-0,301,Moved Permanently,newuser 1-428,,true,,906,118,166,166,https://www.rokomari.com/,31255,0,1919
+1680193045836,401,HTTP Request-1,200,OK,newuser 1-428,text,true,,164225,122,166,166,https://www.rokomari.com/book,91,0,0
+1680193012604,33636,HTTP Request,200,OK,newuser 1-123,text,true,,165125,240,165,165,https://www.rokomari.com/book,33354,0,10731
+1680193012604,33354,HTTP Request-0,301,Moved Permanently,newuser 1-123,,true,,898,118,165,165,https://www.rokomari.com/,33354,0,10731
+1680193045959,281,HTTP Request-1,200,OK,newuser 1-123,text,true,,164227,122,165,165,https://www.rokomari.com/book,113,0,0
+1680193013014,33242,HTTP Request,200,OK,newuser 1-229,text,true,,165141,240,164,164,https://www.rokomari.com/book,3100,0,2726
+1680193013014,3100,HTTP Request-0,301,Moved Permanently,newuser 1-229,,true,,902,118,164,164,https://www.rokomari.com/,3100,0,2726
+1680193016115,30141,HTTP Request-1,200,OK,newuser 1-229,text,true,,164239,122,164,164,https://www.rokomari.com/book,117,0,0
+1680193013760,32585,HTTP Request,200,OK,newuser 1-253,text,true,,165127,240,163,163,https://www.rokomari.com/book,162,0,68
+1680193013760,601,HTTP Request-0,301,Moved Permanently,newuser 1-253,,true,,902,118,163,163,https://www.rokomari.com/,162,0,68
+1680193014361,31984,HTTP Request-1,200,OK,newuser 1-253,text,true,,164225,122,163,163,https://www.rokomari.com/book,182,0,0
+1680193012569,33805,HTTP Request,200,OK,newuser 1-112,text,true,,165127,240,162,162,https://www.rokomari.com/book,33353,0,7370
+1680193012569,33353,HTTP Request-0,301,Moved Permanently,newuser 1-112,,true,,892,118,162,162,https://www.rokomari.com/,33353,0,7370
+1680193045923,451,HTTP Request-1,200,OK,newuser 1-112,text,true,,164235,122,162,162,https://www.rokomari.com/book,126,0,0
+1680193012814,33689,HTTP Request,200,OK,newuser 1-167,text,true,,165129,240,161,161,https://www.rokomari.com/book,33088,0,4757
+1680193012814,33088,HTTP Request-0,301,Moved Permanently,newuser 1-167,,true,,902,118,161,161,https://www.rokomari.com/,33088,0,4757
+1680193045903,600,HTTP Request-1,200,OK,newuser 1-167,text,true,,164227,122,161,161,https://www.rokomari.com/book,98,0,0
+1680193012609,33899,HTTP Request,200,OK,newuser 1-125,text,true,,165119,240,160,160,https://www.rokomari.com/book,33580,0,3540
+1680193012609,33580,HTTP Request-0,301,Moved Permanently,newuser 1-125,,true,,898,118,160,160,https://www.rokomari.com/,33580,0,3540
+1680193046191,317,HTTP Request-1,200,OK,newuser 1-125,text,true,,164221,122,160,160,https://www.rokomari.com/book,94,0,0
+1680193012702,33873,HTTP Request,200,OK,newuser 1-149,text,true,,165117,240,159,159,https://www.rokomari.com/book,2844,0,2490
+1680193012702,2844,HTTP Request-0,301,Moved Permanently,newuser 1-149,,true,,894,118,159,159,https://www.rokomari.com/,2844,0,2490
+1680193015546,31029,HTTP Request-1,200,OK,newuser 1-149,text,true,,164223,122,159,159,https://www.rokomari.com/book,907,0,0
+1680193014636,32055,HTTP Request,200,OK,newuser 1-450,text,true,,165125,240,158,158,https://www.rokomari.com/book,556,0,453
+1680193014636,556,HTTP Request-0,301,Moved Permanently,newuser 1-450,,true,,894,118,158,158,https://www.rokomari.com/,556,0,453
+1680193015192,31499,HTTP Request-1,200,OK,newuser 1-450,text,true,,164231,122,158,158,https://www.rokomari.com/book,454,0,0
+1680193014963,31752,HTTP Request,200,OK,newuser 1-437,text,true,,165120,240,157,157,https://www.rokomari.com/book,583,0,477
+1680193014963,583,HTTP Request-0,301,Moved Permanently,newuser 1-437,,true,,900,118,157,157,https://www.rokomari.com/,583,0,477
+1680193015546,31169,HTTP Request-1,200,OK,newuser 1-437,text,true,,164220,122,157,157,https://www.rokomari.com/book,30945,0,0
+1680193012920,33797,HTTP Request,200,OK,newuser 1-201,text,true,,165120,240,156,156,https://www.rokomari.com/book,3818,0,3712
+1680193012920,3818,HTTP Request-0,301,Moved Permanently,newuser 1-201,,true,,900,118,156,156,https://www.rokomari.com/,3818,0,3712
+1680193016738,29979,HTTP Request-1,200,OK,newuser 1-201,text,true,,164220,122,156,156,https://www.rokomari.com/book,114,0,0
+1680193012514,34261,HTTP Request,200,OK,newuser 1-84,text,true,,165131,240,155,155,https://www.rokomari.com/book,2844,0,969
+1680193012514,2844,HTTP Request-0,301,Moved Permanently,newuser 1-84,,true,,900,118,155,155,https://www.rokomari.com/,2844,0,969
+1680193015358,31417,HTTP Request-1,200,OK,newuser 1-84,text,true,,164231,122,155,155,https://www.rokomari.com/book,472,0,0
+1680193013620,33271,HTTP Request,200,OK,newuser 1-295,text,true,,165123,240,154,154,https://www.rokomari.com/book,2566,0,1079
+1680193013620,2566,HTTP Request-0,301,Moved Permanently,newuser 1-295,,true,,896,118,154,154,https://www.rokomari.com/,2566,0,1079
+1680193016186,30705,HTTP Request-1,200,OK,newuser 1-295,text,true,,164227,122,154,154,https://www.rokomari.com/book,226,0,0
+1680193013657,33516,HTTP Request,200,OK,newuser 1-336,text,true,,165117,240,153,153,https://www.rokomari.com/book,2739,0,391
+1680193013657,2739,HTTP Request-0,301,Moved Permanently,newuser 1-336,,true,,894,118,153,153,https://www.rokomari.com/,2739,0,391
+1680193016396,30777,HTTP Request-1,200,OK,newuser 1-336,text,true,,164223,122,153,153,https://www.rokomari.com/book,408,0,0
+1680193013640,33537,HTTP Request,200,OK,newuser 1-281,text,true,,165120,240,152,152,https://www.rokomari.com/book,1959,0,1578
+1680193013640,1959,HTTP Request-0,301,Moved Permanently,newuser 1-281,,true,,900,118,152,152,https://www.rokomari.com/,1959,0,1578
+1680193015599,31578,HTTP Request-1,200,OK,newuser 1-281,text,true,,164220,122,152,152,https://www.rokomari.com/book,30821,0,0
+1680193012469,34719,HTTP Request,200,OK,newuser 1-51,text,true,,165122,240,151,151,https://www.rokomari.com/book,3074,0,946
+1680193012469,3074,HTTP Request-0,301,Moved Permanently,newuser 1-51,,true,,898,118,151,151,https://www.rokomari.com/,3074,0,946
+1680193015543,31645,HTTP Request-1,200,OK,newuser 1-51,text,true,,164224,122,151,151,https://www.rokomari.com/book,176,0,0
+1680193012496,34882,HTTP Request,200,OK,newuser 1-71,text,true,,165123,240,150,150,https://www.rokomari.com/book,3586,0,3470
+1680193012496,3586,HTTP Request-0,301,Moved Permanently,newuser 1-71,,true,,900,118,150,150,https://www.rokomari.com/,3586,0,3470
+1680193016082,31296,HTTP Request-1,200,OK,newuser 1-71,text,true,,164223,122,150,150,https://www.rokomari.com/book,488,0,0
+1680193013981,33409,HTTP Request,200,OK,newuser 1-307,text,true,,165121,240,149,149,https://www.rokomari.com/book,2315,0,62
+1680193013981,2315,HTTP Request-0,301,Moved Permanently,newuser 1-307,,true,,896,118,149,149,https://www.rokomari.com/,2315,0,62
+1680193016296,31094,HTTP Request-1,200,OK,newuser 1-307,text,true,,164225,122,149,149,https://www.rokomari.com/book,155,0,0
+1680193013736,33874,HTTP Request,200,OK,newuser 1-368,text,true,,165127,240,148,148,https://www.rokomari.com/book,2366,0,2259
+1680193013736,2366,HTTP Request-0,301,Moved Permanently,newuser 1-368,,true,,898,118,148,148,https://www.rokomari.com/,2366,0,2259
+1680193016102,31508,HTTP Request-1,200,OK,newuser 1-368,text,true,,164229,122,148,148,https://www.rokomari.com/book,31102,0,0
+1680193014583,33042,HTTP Request,200,OK,newuser 1-431,text,true,,165121,240,147,147,https://www.rokomari.com/book,1059,0,934
+1680193014583,1059,HTTP Request-0,301,Moved Permanently,newuser 1-431,,true,,892,118,147,147,https://www.rokomari.com/,1059,0,934
+1680193015642,31983,HTTP Request-1,200,OK,newuser 1-431,text,true,,164229,122,147,147,https://www.rokomari.com/book,155,0,0
+1680193014886,32781,HTTP Request,200,OK,newuser 1-492,text,true,,165123,240,146,146,https://www.rokomari.com/book,32238,0,1904
+1680193014886,32238,HTTP Request-0,301,Moved Permanently,newuser 1-492,,true,,900,118,146,146,https://www.rokomari.com/,32238,0,1904
+1680193047125,542,HTTP Request-1,200,OK,newuser 1-492,text,true,,164223,122,146,146,https://www.rokomari.com/book,103,0,0
+1680193012874,34893,HTTP Request,200,OK,newuser 1-185,text,true,,165127,240,145,145,https://www.rokomari.com/book,3119,0,2764
+1680193012874,3119,HTTP Request-0,301,Moved Permanently,newuser 1-185,,true,,898,118,145,145,https://www.rokomari.com/,3119,0,2764
+1680193015993,31774,HTTP Request-1,200,OK,newuser 1-185,text,true,,164229,122,145,145,https://www.rokomari.com/book,110,0,0
+1680193012470,35368,HTTP Request,200,OK,newuser 1-40,text,true,,165125,240,144,144,https://www.rokomari.com/book,4150,0,4040
+1680193012470,4150,HTTP Request-0,301,Moved Permanently,newuser 1-40,,true,,896,118,144,144,https://www.rokomari.com/,4150,0,4040
+1680193016620,31218,HTTP Request-1,200,OK,newuser 1-40,text,true,,164229,122,144,144,https://www.rokomari.com/book,118,0,0
+1680193012433,35508,HTTP Request,200,OK,newuser 1-36,text,true,,165136,240,143,143,https://www.rokomari.com/book,3590,0,3149
+1680193012433,3590,HTTP Request-0,301,Moved Permanently,newuser 1-36,,true,,902,118,143,143,https://www.rokomari.com/,3590,0,3149
+1680193016023,31918,HTTP Request-1,200,OK,newuser 1-36,text,true,,164234,122,143,143,https://www.rokomari.com/book,161,0,0
+1680193014641,33301,HTTP Request,200,OK,newuser 1-464,text,true,,165125,240,142,142,https://www.rokomari.com/book,564,0,461
+1680193014641,564,HTTP Request-0,301,Moved Permanently,newuser 1-464,,true,,896,118,142,142,https://www.rokomari.com/,564,0,461
+1680193015205,32737,HTTP Request-1,200,OK,newuser 1-464,text,true,,164229,122,142,142,https://www.rokomari.com/book,166,0,0
+1680193013683,34366,HTTP Request,200,OK,newuser 1-364,text,true,,165124,240,141,141,https://www.rokomari.com/book,2606,0,2226
+1680193013683,2606,HTTP Request-0,301,Moved Permanently,newuser 1-364,,true,,900,118,141,141,https://www.rokomari.com/,2606,0,2226
+1680193016289,31760,HTTP Request-1,200,OK,newuser 1-364,text,true,,164224,122,141,141,https://www.rokomari.com/book,191,0,0
+1680193012703,35393,HTTP Request,200,OK,newuser 1-150,text,true,,165127,240,140,140,https://www.rokomari.com/book,3810,0,3244
+1680193012703,3810,HTTP Request-0,301,Moved Permanently,newuser 1-150,,true,,900,118,140,140,https://www.rokomari.com/,3810,0,3244
+1680193016513,31583,HTTP Request-1,200,OK,newuser 1-150,text,true,,164227,122,140,140,https://www.rokomari.com/book,119,0,0
+1680193013660,34460,HTTP Request,200,OK,newuser 1-337,text,true,,165127,240,139,139,https://www.rokomari.com/book,348,0,267
+1680193013660,520,HTTP Request-0,301,Moved Permanently,newuser 1-337,,true,,896,118,139,139,https://www.rokomari.com/,348,0,267
+1680193014180,33940,HTTP Request-1,200,OK,newuser 1-337,text,true,,164231,122,139,139,https://www.rokomari.com/book,107,0,0
+1680193013978,34203,HTTP Request,200,OK,newuser 1-315,text,true,,165123,240,138,138,https://www.rokomari.com/book,2436,0,60
+1680193013978,2436,HTTP Request-0,301,Moved Permanently,newuser 1-315,,true,,898,118,138,138,https://www.rokomari.com/,2436,0,60
+1680193016414,31767,HTTP Request-1,200,OK,newuser 1-315,text,true,,164225,122,138,138,https://www.rokomari.com/book,113,0,0
+1680193013738,34443,HTTP Request,200,OK,newuser 1-326,text,true,,165116,240,138,138,https://www.rokomari.com/book,2065,0,1934
+1680193013738,2065,HTTP Request-0,301,Moved Permanently,newuser 1-326,,true,,896,118,138,138,https://www.rokomari.com/,2065,0,1934
+1680193015803,32378,HTTP Request-1,200,OK,newuser 1-326,text,true,,164220,122,138,138,https://www.rokomari.com/book,258,0,0
+1680193013755,34486,HTTP Request,200,OK,newuser 1-252,text,true,,165132,240,136,136,https://www.rokomari.com/book,348,0,259
+1680193013755,736,HTTP Request-0,301,Moved Permanently,newuser 1-252,,true,,902,118,136,136,https://www.rokomari.com/,348,0,259
+1680193014492,33749,HTTP Request-1,200,OK,newuser 1-252,text,true,,164230,122,136,136,https://www.rokomari.com/book,123,0,0
+1680193014886,33369,HTTP Request,200,OK,newuser 1-456,text,true,,165135,240,135,135,https://www.rokomari.com/book,1256,0,96
+1680193014886,1256,HTTP Request-0,301,Moved Permanently,newuser 1-456,,true,,904,118,135,135,https://www.rokomari.com/,1256,0,96
+1680193016142,32113,HTTP Request-1,200,OK,newuser 1-456,text,true,,164231,122,135,135,https://www.rokomari.com/book,475,0,0
+1680193012561,35739,HTTP Request,200,OK,newuser 1-99,text,true,,165129,240,134,134,https://www.rokomari.com/book,1621,0,776
+1680193012561,1621,HTTP Request-0,301,Moved Permanently,newuser 1-99,,true,,902,118,134,134,https://www.rokomari.com/,1621,0,776
+1680193014214,34086,HTTP Request-1,200,OK,newuser 1-99,text,true,,164227,122,134,134,https://www.rokomari.com/book,105,0,0
+1680193013014,35328,HTTP Request,200,OK,newuser 1-230,text,true,,165142,240,133,133,https://www.rokomari.com/book,6247,0,4149
+1680193013014,6247,HTTP Request-0,301,Moved Permanently,newuser 1-230,,true,,900,118,133,133,https://www.rokomari.com/,6247,0,4149
+1680193019261,29081,HTTP Request-1,200,OK,newuser 1-230,text,true,,164242,122,133,133,https://www.rokomari.com/book,106,0,0
+1680193012966,35397,HTTP Request,200,OK,newuser 1-218,text,true,,165130,240,132,132,https://www.rokomari.com/book,2990,0,2616
+1680193012966,2990,HTTP Request-0,301,Moved Permanently,newuser 1-218,,true,,898,118,132,132,https://www.rokomari.com/,2990,0,2616
+1680193015956,32407,HTTP Request-1,200,OK,newuser 1-218,text,true,,164232,122,132,132,https://www.rokomari.com/book,128,0,0
+1680193012846,35674,HTTP Request,200,OK,newuser 1-166,text,true,,165119,240,131,131,https://www.rokomari.com/book,4769,0,4652
+1680193012846,4769,HTTP Request-0,301,Moved Permanently,newuser 1-166,,true,,898,118,131,131,https://www.rokomari.com/,4769,0,4652
+1680193017615,30905,HTTP Request-1,200,OK,newuser 1-166,text,true,,164221,122,131,131,https://www.rokomari.com/book,103,0,0
+1680193012567,35988,HTTP Request,200,OK,newuser 1-111,text,true,,165119,240,130,130,https://www.rokomari.com/book,3367,0,3223
+1680193012567,3367,HTTP Request-0,301,Moved Permanently,newuser 1-111,,true,,900,118,130,130,https://www.rokomari.com/,3367,0,3223
+1680193015934,32621,HTTP Request-1,200,OK,newuser 1-111,text,true,,164219,122,130,130,https://www.rokomari.com/book,395,0,0
+1680193014732,34066,HTTP Request,200,OK,newuser 1-491,text,true,,165146,240,129,129,https://www.rokomari.com/book,256,0,145
+1680193014732,256,HTTP Request-0,301,Moved Permanently,newuser 1-491,,true,,908,118,129,129,https://www.rokomari.com/,256,0,145
+1680193014988,33810,HTTP Request-1,200,OK,newuser 1-491,text,true,,164238,122,129,129,https://www.rokomari.com/book,130,0,0
+1680193012509,36389,HTTP Request,200,OK,newuser 1-81,text,true,,165123,240,128,128,https://www.rokomari.com/book,5710,0,5609
+1680193012509,5710,HTTP Request-0,301,Moved Permanently,newuser 1-81,,true,,896,118,128,128,https://www.rokomari.com/,5710,0,5609
+1680193018219,30679,HTTP Request-1,200,OK,newuser 1-81,text,true,,164227,122,128,128,https://www.rokomari.com/book,102,0,0
+1680193013706,35396,HTTP Request,200,OK,newuser 1-369,text,true,,165123,240,127,127,https://www.rokomari.com/book,4313,0,4218
+1680193013706,4313,HTTP Request-0,301,Moved Permanently,newuser 1-369,,true,,898,118,127,127,https://www.rokomari.com/,4313,0,4218
+1680193018019,31083,HTTP Request-1,200,OK,newuser 1-369,text,true,,164225,122,127,127,https://www.rokomari.com/book,833,0,0
+1680193014601,34961,HTTP Request,200,OK,newuser 1-443,text,true,,165129,240,126,126,https://www.rokomari.com/book,1332,0,1185
+1680193014601,1332,HTTP Request-0,301,Moved Permanently,newuser 1-443,,true,,896,118,126,126,https://www.rokomari.com/,1332,0,1185
+1680193015933,33629,HTTP Request-1,200,OK,newuser 1-443,text,true,,164233,122,126,126,https://www.rokomari.com/book,481,0,0
+1680193014594,34970,HTTP Request,200,OK,newuser 1-435,text,true,,165143,240,125,125,https://www.rokomari.com/book,1560,0,131
+1680193014594,1560,HTTP Request-0,301,Moved Permanently,newuser 1-435,,true,,906,118,125,125,https://www.rokomari.com/,1560,0,131
+1680193016154,33410,HTTP Request-1,200,OK,newuser 1-435,text,true,,164237,122,125,125,https://www.rokomari.com/book,466,0,0
+1680193012444,38739,HTTP Request,200,OK,newuser 1-56,text,true,,165129,240,124,124,https://www.rokomari.com/book,38579,0,4179
+1680193012444,38579,HTTP Request-0,301,Moved Permanently,newuser 1-56,,true,,894,118,124,124,https://www.rokomari.com/,38579,0,4179
+1680193051024,159,HTTP Request-1,200,OK,newuser 1-56,text,true,,164235,122,124,124,https://www.rokomari.com/book,93,0,0
+1680193013626,37865,HTTP Request,200,OK,newuser 1-290,text,true,,165119,240,123,123,https://www.rokomari.com/book,1218,0,1093
+1680193013626,1218,HTTP Request-0,301,Moved Permanently,newuser 1-290,,true,,896,118,123,123,https://www.rokomari.com/,1218,0,1093
+1680193014857,36634,HTTP Request-1,200,OK,newuser 1-290,text,true,,164223,122,123,123,https://www.rokomari.com/book,150,0,0
+1680193012512,39121,HTTP Request,200,OK,newuser 1-85,text,true,,165128,240,122,122,https://www.rokomari.com/book,3565,0,884
+1680193012512,3565,HTTP Request-0,301,Moved Permanently,newuser 1-85,,true,,902,118,122,122,https://www.rokomari.com/,3565,0,884
+1680193016077,35556,HTTP Request-1,200,OK,newuser 1-85,text,true,,164226,122,122,122,https://www.rokomari.com/book,102,0,0
+1680193013630,38178,HTTP Request,200,OK,newuser 1-287,text,true,,165135,240,121,121,https://www.rokomari.com/book,3067,0,1641
+1680193013630,3067,HTTP Request-0,301,Moved Permanently,newuser 1-287,,true,,902,118,121,121,https://www.rokomari.com/,3067,0,1641
+1680193016697,35111,HTTP Request-1,200,OK,newuser 1-287,text,true,,164233,122,121,121,https://www.rokomari.com/book,109,0,0
+1680193014595,42220,HTTP Request,200,OK,newuser 1-434,text,true,,165128,240,120,120,https://www.rokomari.com/book,606,0,510
+1680193014595,606,HTTP Request-0,301,Moved Permanently,newuser 1-434,,true,,898,118,120,120,https://www.rokomari.com/,606,0,510
+1680193015202,41613,HTTP Request-1,200,OK,newuser 1-434,text,true,,164230,122,120,120,https://www.rokomari.com/book,585,0,0
+1680193012705,45474,HTTP Request,200,OK,newuser 1-153,text,true,,165140,240,119,119,https://www.rokomari.com/book,10466,0,10360
+1680193012705,10466,HTTP Request-0,301,Moved Permanently,newuser 1-153,,true,,898,118,119,119,https://www.rokomari.com/,10466,0,10360
+1680193023170,35009,HTTP Request-1,200,OK,newuser 1-153,text,true,,164242,122,119,119,https://www.rokomari.com/book,1873,0,0
+1680193012912,51030,HTTP Request,200,OK,newuser 1-197,text,true,,165137,240,118,118,https://www.rokomari.com/book,3210,0,2138
+1680193012912,3210,HTTP Request-0,301,Moved Permanently,newuser 1-197,,true,,908,118,118,118,https://www.rokomari.com/,3210,0,2138
+1680193016125,47817,HTTP Request-1,200,OK,newuser 1-197,text,true,,164229,122,118,118,https://www.rokomari.com/book,852,0,0
+1680193013654,50479,HTTP Request,200,OK,newuser 1-322,text,true,,165127,240,117,117,https://www.rokomari.com/book,2762,0,395
+1680193013654,2762,HTTP Request-0,301,Moved Permanently,newuser 1-322,,true,,900,118,117,117,https://www.rokomari.com/,2762,0,395
+1680193016417,47716,HTTP Request-1,200,OK,newuser 1-322,text,true,,164227,122,117,117,https://www.rokomari.com/book,121,0,0
+1680193014093,55989,HTTP Request,200,OK,newuser 1-380,text,true,,165130,240,116,116,https://www.rokomari.com/book,3028,0,2687
+1680193014093,3028,HTTP Request-0,301,Moved Permanently,newuser 1-380,,true,,896,118,116,116,https://www.rokomari.com/,3028,0,2687
+1680193017121,52961,HTTP Request-1,200,OK,newuser 1-380,text,true,,164234,122,116,116,https://www.rokomari.com/book,194,0,0
+1680193013725,58012,HTTP Request,200,OK,newuser 1-327,text,true,,165125,240,115,115,https://www.rokomari.com/book,57695,0,4003
+1680193013725,57695,HTTP Request-0,301,Moved Permanently,newuser 1-327,,true,,902,118,115,115,https://www.rokomari.com/,57695,0,4003
+1680193071421,316,HTTP Request-1,200,OK,newuser 1-327,text,true,,164223,122,115,115,https://www.rokomari.com/book,111,0,0
+1680193013001,61722,HTTP Request,200,OK,newuser 1-226,text,true,,165126,240,114,114,https://www.rokomari.com/book,4650,0,3880
+1680193013001,4650,HTTP Request-0,301,Moved Permanently,newuser 1-226,,true,,902,118,114,114,https://www.rokomari.com/,4650,0,3880
+1680193017651,57072,HTTP Request-1,200,OK,newuser 1-226,text,true,,164224,122,114,114,https://www.rokomari.com/book,171,0,0
+1680193012559,62603,HTTP Request,200,OK,newuser 1-105,text,true,,165134,240,113,113,https://www.rokomari.com/book,62368,0,6877
+1680193012559,62368,HTTP Request-0,301,Moved Permanently,newuser 1-105,,true,,900,118,113,113,https://www.rokomari.com/,62368,0,6877
+1680193074927,235,HTTP Request-1,200,OK,newuser 1-105,text,true,,164234,122,113,113,https://www.rokomari.com/book,169,0,74
+1680193013634,61801,HTTP Request,200,OK,newuser 1-289,text,true,,165127,240,112,112,https://www.rokomari.com/book,1994,0,1662
+1680193013634,1994,HTTP Request-0,301,Moved Permanently,newuser 1-289,,true,,898,118,112,112,https://www.rokomari.com/,1994,0,1662
+1680193015628,59807,HTTP Request-1,200,OK,newuser 1-289,text,true,,164229,122,112,112,https://www.rokomari.com/book,123,0,0
+1680193012717,62885,HTTP Request,200,OK,newuser 1-159,text,true,,165127,240,111,111,https://www.rokomari.com/book,4079,0,3978
+1680193012717,4079,HTTP Request-0,301,Moved Permanently,newuser 1-159,,true,,902,118,111,111,https://www.rokomari.com/,4079,0,3978
+1680193016796,58806,HTTP Request-1,200,OK,newuser 1-159,text,true,,164225,122,111,111,https://www.rokomari.com/book,418,0,0
+1680193014218,61818,HTTP Request,200,OK,newuser 1-331,text,true,,165133,240,110,110,https://www.rokomari.com/book,1994,0,1660
+1680193014218,1994,HTTP Request-0,301,Moved Permanently,newuser 1-331,,true,,898,118,110,110,https://www.rokomari.com/,1994,0,1660
+1680193016212,59824,HTTP Request-1,200,OK,newuser 1-331,text,true,,164235,122,110,110,https://www.rokomari.com/book,155,0,0
+1680193012469,63675,HTTP Request,200,OK,newuser 1-10,text,true,,165129,240,109,109,https://www.rokomari.com/book,63480,0,4245
+1680193012469,63480,HTTP Request-0,301,Moved Permanently,newuser 1-10,,true,,904,118,109,109,https://www.rokomari.com/,63480,0,4245
+1680193075949,195,HTTP Request-1,200,OK,newuser 1-10,text,true,,164225,122,109,109,https://www.rokomari.com/book,127,0,40
+1680193013004,63200,HTTP Request,200,OK,newuser 1-228,text,true,,165127,240,108,108,https://www.rokomari.com/book,3395,0,3240
+1680193013004,3395,HTTP Request-0,301,Moved Permanently,newuser 1-228,,true,,900,118,108,108,https://www.rokomari.com/,3395,0,3240
+1680193016399,59805,HTTP Request-1,200,OK,newuser 1-228,text,true,,164227,122,108,108,https://www.rokomari.com/book,172,0,0
+1680193012695,64083,HTTP Request,200,OK,newuser 1-146,text,true,,165119,240,107,107,https://www.rokomari.com/book,2696,0,768
+1680193012695,2696,HTTP Request-0,301,Moved Permanently,newuser 1-146,,true,,898,118,107,107,https://www.rokomari.com/,2696,0,768
+1680193015391,61387,HTTP Request-1,200,OK,newuser 1-146,text,true,,164221,122,107,107,https://www.rokomari.com/book,131,0,0
+1680193013595,63410,HTTP Request,200,OK,newuser 1-273,text,true,,165122,240,106,106,https://www.rokomari.com/book,3610,0,2301
+1680193013595,3610,HTTP Request-0,301,Moved Permanently,newuser 1-273,,true,,894,118,106,106,https://www.rokomari.com/,3610,0,2301
+1680193017205,59800,HTTP Request-1,200,OK,newuser 1-273,text,true,,164228,122,106,106,https://www.rokomari.com/book,121,0,0
+1680193013416,63602,HTTP Request,200,OK,newuser 1-249,text,true,,165121,240,105,105,https://www.rokomari.com/book,491,0,403
+1680193013416,972,HTTP Request-0,301,Moved Permanently,newuser 1-249,,true,,896,118,105,105,https://www.rokomari.com/,491,0,403
+1680193014388,62630,HTTP Request-1,200,OK,newuser 1-249,text,true,,164225,122,105,105,https://www.rokomari.com/book,121,0,0
+1680193012999,64040,HTTP Request,200,OK,newuser 1-223,text,true,,165135,240,104,104,https://www.rokomari.com/book,1167,0,300
+1680193012999,1167,HTTP Request-0,301,Moved Permanently,newuser 1-223,,true,,900,118,104,104,https://www.rokomari.com/,1167,0,300
+1680193014166,62873,HTTP Request-1,200,OK,newuser 1-223,text,true,,164235,122,104,104,https://www.rokomari.com/book,88,0,0
+1680193013118,64417,HTTP Request,200,OK,newuser 1-244,text,true,,165123,240,103,103,https://www.rokomari.com/book,2797,0,270
+1680193013118,2797,HTTP Request-0,301,Moved Permanently,newuser 1-244,,true,,898,118,103,103,https://www.rokomari.com/,2797,0,270
+1680193015915,61620,HTTP Request-1,200,OK,newuser 1-244,text,true,,164225,122,103,103,https://www.rokomari.com/book,483,0,0
+1680193012816,64963,HTTP Request,200,OK,newuser 1-161,text,true,,165116,240,102,102,https://www.rokomari.com/book,4067,0,3948
+1680193012816,4067,HTTP Request-0,301,Moved Permanently,newuser 1-161,,true,,896,118,102,102,https://www.rokomari.com/,4067,0,3948
+1680193016884,60895,HTTP Request-1,200,OK,newuser 1-161,text,true,,164220,122,102,102,https://www.rokomari.com/book,139,0,0
+1680193013536,64457,HTTP Request,200,OK,newuser 1-255,text,true,,165129,240,101,101,https://www.rokomari.com/book,2330,0,2217
+1680193013536,2330,HTTP Request-0,301,Moved Permanently,newuser 1-255,,true,,900,118,101,101,https://www.rokomari.com/,2330,0,2217
+1680193015866,62127,HTTP Request-1,200,OK,newuser 1-255,text,true,,164229,122,101,101,https://www.rokomari.com/book,452,0,0
+1680193014888,64030,HTTP Request,200,OK,newuser 1-487,text,true,,165143,240,100,100,https://www.rokomari.com/book,500,0,378
+1680193014888,500,HTTP Request-0,301,Moved Permanently,newuser 1-487,,true,,908,118,100,100,https://www.rokomari.com/,500,0,378
+1680193015388,63530,HTTP Request-1,200,OK,newuser 1-487,text,true,,164235,122,100,100,https://www.rokomari.com/book,162,0,0
+1680193014643,64493,HTTP Request,200,OK,newuser 1-466,text,true,,165119,240,99,99,https://www.rokomari.com/book,624,0,512
+1680193014643,624,HTTP Request-0,301,Moved Permanently,newuser 1-466,,true,,896,118,99,99,https://www.rokomari.com/,624,0,512
+1680193015268,63868,HTTP Request-1,200,OK,newuser 1-466,text,true,,164223,122,99,99,https://www.rokomari.com/book,63765,0,0
+1680193014642,75190,HTTP Request,200,OK,newuser 1-467,text,true,,165118,240,98,98,https://www.rokomari.com/book,1874,0,983
+1680193014642,1874,HTTP Request-0,301,Moved Permanently,newuser 1-467,,true,,898,118,98,98,https://www.rokomari.com/,1874,0,983
+1680193016516,73316,HTTP Request-1,200,OK,newuser 1-467,text,true,,164220,122,98,98,https://www.rokomari.com/book,431,0,0
+1680193013057,84895,HTTP Request,200,OK,newuser 1-240,text,true,,165139,240,97,97,https://www.rokomari.com/book,2844,0,275
+1680193013057,2844,HTTP Request-0,301,Moved Permanently,newuser 1-240,,true,,906,118,97,97,https://www.rokomari.com/,2844,0,275
+1680193015901,82051,HTTP Request-1,200,OK,newuser
